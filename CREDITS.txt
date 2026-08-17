@@ -1,0 +1,20 @@
+XV2 SAVE EDITOR
+===============
+
+Made with love by: Demyliciouss
+With help from: Gliscors
+
+Support communities:
+https://discord.com/invite/desurui
+https://discord.gg/rrpvUequwX
+
+Special thanks to:
+https://gitlab.com/BawsDeep - for the XV2PStoPC Tool <3
+https://github.com/mineminemine - for the Xbox save decrypter <3
+https://github.com/gabrieluto – Extensive research on Xenoverse 2 PS4 saves and detailed spreadsheet of offsets.
+
+
+This release includes the runtime components and platform-conversion helpers
+required by the editor. Dragon Ball Xenoverse 2 and related names/assets belong
+to their respective owners. This project is an independent community tool.
+

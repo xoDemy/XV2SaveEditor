@@ -1,0 +1,1050 @@
+[
+  {
+    "id": 0,
+    "name": "Goku's Turtle Hermit Gi"
+  },
+  {
+    "id": 1,
+    "name": "Goku's Turtle Hermit Gi (King Kai)"
+  },
+  {
+    "id": 2,
+    "name": "Goku's Turtle Hermit Gi (Go)"
+  },
+  {
+    "id": 3,
+    "name": "Goku's Turtle Hermit Gi (No Character)"
+  },
+  {
+    "id": 4,
+    "name": "Yamcha's Turtle Hermit Gi"
+  },
+  {
+    "id": 6,
+    "name": "GT Goku's Gi"
+  },
+  {
+    "id": 7,
+    "name": "Tien Shinhan's Gi"
+  },
+  {
+    "id": 11,
+    "name": "Demon Clothes (Gohan, Kid)"
+  },
+  {
+    "id": 12,
+    "name": "Battle Suit (Raditz)"
+  },
+  {
+    "id": 13,
+    "name": "Battle Suit (Nappa)"
+  },
+  {
+    "id": 14,
+    "name": "Battle Suit (Vegeta, on entry)"
+  },
+  {
+    "id": 15,
+    "name": "Battle Suit (Frieza Saga Vegeta)"
+  },
+  {
+    "id": 16,
+    "name": "Battle Suit (Gohan)"
+  },
+  {
+    "id": 17,
+    "name": "Battle Suit (Krillin)"
+  },
+  {
+    "id": 18,
+    "name": "Training Suit"
+  },
+  {
+    "id": 19,
+    "name": "Battle Suit (Bardock)"
+  },
+  {
+    "id": 20,
+    "name": "Battle Suit (Ginyu Force White)"
+  },
+  {
+    "id": 21,
+    "name": "Battle Suit (Ginyu Force Black)"
+  },
+  {
+    "id": 22,
+    "name": "Battle Suit (Cooler's Armored Squadron)"
+  },
+  {
+    "id": 23,
+    "name": "Battle Suit (Turles)"
+  },
+  {
+    "id": 26,
+    "name": "Beerus' Clothes"
+  },
+  {
+    "id": 28,
+    "name": "Majin Buu's Clothes"
+  },
+  {
+    "id": 31,
+    "name": "Android 16's Clothes"
+  },
+  {
+    "id": 32,
+    "name": "Videl's Clothes"
+  },
+  {
+    "id": 34,
+    "name": "Broly's Clothes"
+  },
+  {
+    "id": 35,
+    "name": "Vegito's Clothes"
+  },
+  {
+    "id": 36,
+    "name": "Gogeta's Clothes"
+  },
+  {
+    "id": 37,
+    "name": "Super 17's Clothes"
+  },
+  {
+    "id": 38,
+    "name": "Pan's Clothes"
+  },
+  {
+    "id": 39,
+    "name": "Great Saiyaman Suit"
+  },
+  {
+    "id": 40,
+    "name": "Yamcha's Clothes"
+  },
+  {
+    "id": 45,
+    "name": "Kid Chi-Chi's Clothes"
+  },
+  {
+    "id": 46,
+    "name": "Ox King's Clothes"
+  },
+  {
+    "id": 49,
+    "name": "Murasaki-style Ninja Suit"
+  },
+  {
+    "id": 50,
+    "name": "Lord Slug's Clothes"
+  },
+  {
+    "id": 52,
+    "name": "Karinga Tribe Costume"
+  },
+  {
+    "id": 53,
+    "name": "Saiyuki Costume"
+  },
+  {
+    "id": 54,
+    "name": "Wild Rider Suit"
+  },
+  {
+    "id": 55,
+    "name": "Android 18's Clothes (Casual)"
+  },
+  {
+    "id": 56,
+    "name": "GT Trunks' Clothes"
+  },
+  {
+    "id": 57,
+    "name": "Launch Costume"
+  },
+  {
+    "id": 60,
+    "name": "Chi-Chi Costume"
+  },
+  {
+    "id": 62,
+    "name": "Bandages the Mummy Costume"
+  },
+  {
+    "id": 65,
+    "name": "Uniform"
+  },
+  {
+    "id": 66,
+    "name": "Ultimate Turtle Hermit Costume"
+  },
+  {
+    "id": 67,
+    "name": "Training Temple Gi"
+  },
+  {
+    "id": 69,
+    "name": "Pilot Suit"
+  },
+  {
+    "id": 70,
+    "name": "4-Star Dragon Ball Costume"
+  },
+  {
+    "id": 74,
+    "name": "School Uniform (Female)"
+  },
+  {
+    "id": 77,
+    "name": "Battle Suit"
+  },
+  {
+    "id": 78,
+    "name": "Shingi Demon Battle Suit"
+  },
+  {
+    "id": 79,
+    "name": "Evil Sorceror Battle Tools"
+  },
+  {
+    "id": 80,
+    "name": "Narak Warrior's Costume"
+  },
+  {
+    "id": 81,
+    "name": "Ancient Katas' Battle Costume"
+  },
+  {
+    "id": 82,
+    "name": "New Hide Battle Costume"
+  },
+  {
+    "id": 83,
+    "name": "Bio Suit"
+  },
+  {
+    "id": 84,
+    "name": "Hero Suit"
+  },
+  {
+    "id": 85,
+    "name": "Elite Suit"
+  },
+  {
+    "id": 86,
+    "name": "Berserker Suit"
+  },
+  {
+    "id": 87,
+    "name": "Ultimate F Suit"
+  },
+  {
+    "id": 88,
+    "name": "Cosmic Suit"
+  },
+  {
+    "id": 89,
+    "name": "Z Fighting Suit"
+  },
+  {
+    "id": 90,
+    "name": "Buu-gi"
+  },
+  {
+    "id": 91,
+    "name": "Buu-gi Gravity"
+  },
+  {
+    "id": 92,
+    "name": "Dyno Woo-gi"
+  },
+  {
+    "id": 93,
+    "name": "Dynamic Strong Suit"
+  },
+  {
+    "id": 94,
+    "name": "Fun Suit"
+  },
+  {
+    "id": 95,
+    "name": "Light Heart Suit"
+  },
+  {
+    "id": 103,
+    "name": "Gold Battle Suit"
+  },
+  {
+    "id": 104,
+    "name": "Crystal Battle Suit"
+  },
+  {
+    "id": 106,
+    "name": "Mira's Clothes"
+  },
+  {
+    "id": 108,
+    "name": "Whis Symbol Gi"
+  },
+  {
+    "id": 110,
+    "name": "Whis Symbol Battle Suit"
+  },
+  {
+    "id": 123,
+    "name": "Orange Star High School Outfit"
+  },
+  {
+    "id": 124,
+    "name": "Jaco Suit"
+  },
+  {
+    "id": 126,
+    "name": "Battle Suit (King Vegeta)"
+  },
+  {
+    "id": 127,
+    "name": "Mutaito's Gi"
+  },
+  {
+    "id": 131,
+    "name": "Majuub's Clothes"
+  },
+  {
+    "id": 132,
+    "name": "Yamcha's Baseball Uniform"
+  },
+  {
+    "id": 134,
+    "name": "Super Baby 2's Clothes"
+  },
+  {
+    "id": 135,
+    "name": "GT Vegeta's Clothes"
+  },
+  {
+    "id": 141,
+    "name": "Gohan's Gi (Adult)"
+  },
+  {
+    "id": 145,
+    "name": "Frieza's Suit (Final Form)"
+  },
+  {
+    "id": 146,
+    "name": "Battle Suit (Fasha)"
+  },
+  {
+    "id": 147,
+    "name": "Gi (Turtle)"
+  },
+  {
+    "id": 148,
+    "name": "Gi (Crane)"
+  },
+  {
+    "id": 149,
+    "name": "Gi (Demon)"
+  },
+  {
+    "id": 150,
+    "name": "Gi (Ginyu Force)"
+  },
+  {
+    "id": 151,
+    "name": "Gi (Red Ribbon Army)"
+  },
+  {
+    "id": 152,
+    "name": "Gi (CC)"
+  },
+  {
+    "id": 153,
+    "name": "Ninja Suit (Turtle)"
+  },
+  {
+    "id": 154,
+    "name": "Ninja Suit (Crane)"
+  },
+  {
+    "id": 155,
+    "name": "Ninja Suit (Demon)"
+  },
+  {
+    "id": 156,
+    "name": "Ninja Suit (Ginyu Force)"
+  },
+  {
+    "id": 157,
+    "name": "Ninja Suit (Red Ribbon Army)"
+  },
+  {
+    "id": 158,
+    "name": "Ninja Suit (CC)"
+  },
+  {
+    "id": 159,
+    "name": "Battle Suit (Turtle)"
+  },
+  {
+    "id": 160,
+    "name": "Battle Suit (Crane)"
+  },
+  {
+    "id": 161,
+    "name": "Battle Suit (Demon)"
+  },
+  {
+    "id": 162,
+    "name": "Battle Suit (Ginyu Force)"
+  },
+  {
+    "id": 163,
+    "name": "Battle Suit (Red Ribbon Army)"
+  },
+  {
+    "id": 164,
+    "name": "Battle Suit (CC)"
+  },
+  {
+    "id": 171,
+    "name": "Baseball Uniform (Turtle)"
+  },
+  {
+    "id": 172,
+    "name": "Baseball Uniform (Crane)"
+  },
+  {
+    "id": 173,
+    "name": "Baseball Uniform (Demon)"
+  },
+  {
+    "id": 174,
+    "name": "Baseball Uniform (Ginyu Force)"
+  },
+  {
+    "id": 175,
+    "name": "Baseball Uniform (RR Army)"
+  },
+  {
+    "id": 176,
+    "name": "Baseball Uniform (CC)"
+  },
+  {
+    "id": 183,
+    "name": "Hero Suit (Turtle)"
+  },
+  {
+    "id": 184,
+    "name": "Hero Suit (Crane)"
+  },
+  {
+    "id": 185,
+    "name": "Hero Suit (Demon)"
+  },
+  {
+    "id": 186,
+    "name": "Hero Suit (Ginyu Force)"
+  },
+  {
+    "id": 187,
+    "name": "Hero Suit (Red Ribbon Army)"
+  },
+  {
+    "id": 188,
+    "name": "Hero Suit (CC)"
+  },
+  {
+    "id": 189,
+    "name": "Elite Suit (Turtle)"
+  },
+  {
+    "id": 190,
+    "name": "Elite Suit (Crane)"
+  },
+  {
+    "id": 191,
+    "name": "Elite Suit (Demon)"
+  },
+  {
+    "id": 192,
+    "name": "Elite Suit (Ginyu Force)"
+  },
+  {
+    "id": 193,
+    "name": "Elite Suit (Red Ribbon Army)"
+  },
+  {
+    "id": 194,
+    "name": "Elite Suit (CC)"
+  },
+  {
+    "id": 235,
+    "name": "Time Patroller Outfit"
+  },
+  {
+    "id": 236,
+    "name": "Time Patroller Outfit"
+  },
+  {
+    "id": 237,
+    "name": "Battle Suit (Time Patroller)"
+  },
+  {
+    "id": 238,
+    "name": "Battle Suit (Time Patroller)"
+  },
+  {
+    "id": 239,
+    "name": "Time Patroller Battle Gear"
+  },
+  {
+    "id": 240,
+    "name": "Time Patroller Suit"
+  },
+  {
+    "id": 241,
+    "name": "Time Patrol Gi"
+  },
+  {
+    "id": 242,
+    "name": "Time Patrol Gi"
+  },
+  {
+    "id": 245,
+    "name": "Journey to the West Costume"
+  },
+  {
+    "id": 246,
+    "name": "Battle Suit (King Cold)"
+  },
+  {
+    "id": 247,
+    "name": "Battle Suit (Neiz)"
+  },
+  {
+    "id": 248,
+    "name": "Battle Suit (Dore)"
+  },
+  {
+    "id": 249,
+    "name": "Mecha Frieza Suit"
+  },
+  {
+    "id": 250,
+    "name": "Battle Suit (Cabba)"
+  },
+  {
+    "id": 251,
+    "name": "Champa's Clothes"
+  },
+  {
+    "id": 260,
+    "name": "Bido's Clothes"
+  },
+  {
+    "id": 264,
+    "name": "Metal Cooler's Suit"
+  },
+  {
+    "id": 266,
+    "name": "Android 14's Clothes"
+  },
+  {
+    "id": 267,
+    "name": "Android 13's Clothes"
+  },
+  {
+    "id": 268,
+    "name": "Super Android 13's Clothes"
+  },
+  {
+    "id": 269,
+    "name": "Paragus's Clothes"
+  },
+  {
+    "id": 270,
+    "name": "Angol's Clothes"
+  },
+  {
+    "id": 272,
+    "name": "Magetta's Suit"
+  },
+  {
+    "id": 273,
+    "name": "Future Mai's Clothes"
+  },
+  {
+    "id": 274,
+    "name": "Camo Bikini"
+  },
+  {
+    "id": 278,
+    "name": "Great Ape Suit"
+  },
+  {
+    "id": 279,
+    "name": "Golden Great Ape Suit"
+  },
+  {
+    "id": 282,
+    "name": "Resistance Clothes"
+  },
+  {
+    "id": 283,
+    "name": "Golden Turtle Hermit Gi"
+  },
+  {
+    "id": 284,
+    "name": "Yajirobe's Clothes"
+  },
+  {
+    "id": 285,
+    "name": "Super Saiyan 4 Suit (Goku)"
+  },
+  {
+    "id": 286,
+    "name": "Amy's Battle Suit"
+  },
+  {
+    "id": 287,
+    "name": "Pride Trooper Uniform"
+  },
+  {
+    "id": 288,
+    "name": "Ribrianne's Clothes"
+  },
+  {
+    "id": 293,
+    "name": "Android 21's Clothes"
+  },
+  {
+    "id": 294,
+    "name": "Android 21's Clothes"
+  },
+  {
+    "id": 295,
+    "name": "Arabian Costume"
+  },
+  {
+    "id": 296,
+    "name": "Tapion's Clothes"
+  },
+  {
+    "id": 297,
+    "name": "Tapion's Clothes (Kid Trunks Colors)"
+  },
+  {
+    "id": 298,
+    "name": "Tapion's Clothes (Red)"
+  },
+  {
+    "id": 299,
+    "name": "Tapion's Clothes (Blue)"
+  },
+  {
+    "id": 300,
+    "name": "Tapion's Clothes (Yellow)"
+  },
+  {
+    "id": 301,
+    "name": "Janemba Suit"
+  },
+  {
+    "id": 302,
+    "name": "Santa Costume"
+  },
+  {
+    "id": 305,
+    "name": "Broly (Full Power Super Saiyan)'s Clothes"
+  },
+  {
+    "id": 306,
+    "name": "SSGSS Gogeta's Clothes"
+  },
+  {
+    "id": 307,
+    "name": "Kakunsa's Clothes"
+  },
+  {
+    "id": 308,
+    "name": "Rozie's Clothes"
+  },
+  {
+    "id": 310,
+    "name": "Boxer Costume"
+  },
+  {
+    "id": 313,
+    "name": "Universe 7 Baseball Uniform"
+  },
+  {
+    "id": 314,
+    "name": "Majuub's Clothes (Gold)"
+  },
+  {
+    "id": 315,
+    "name": "Android 21's Lab Uniform (Gold)"
+  },
+  {
+    "id": 316,
+    "name": "Goku's Final DBZ Gi"
+  },
+  {
+    "id": 317,
+    "name": "Cheelai's Clothes"
+  },
+  {
+    "id": 321,
+    "name": "Bardock (DB Super)'s Clothes"
+  },
+  {
+    "id": 322,
+    "name": "Gine (DB Super)'s Clothes"
+  },
+  {
+    "id": 323,
+    "name": "Fu's Clothes"
+  },
+  {
+    "id": 324,
+    "name": "Bulma (DB Super)'s Clothes"
+  },
+  {
+    "id": 325,
+    "name": "Bergamo's Clothes"
+  },
+  {
+    "id": 326,
+    "name": "Kale's Clothes"
+  },
+  {
+    "id": 327,
+    "name": "Caulifla's Clothes"
+  },
+  {
+    "id": 328,
+    "name": "Bulma (Kid)'s Clothes"
+  },
+  {
+    "id": 331,
+    "name": "Android 17 (DB Super)'s Ranger Outfit"
+  },
+  {
+    "id": 332,
+    "name": "King Vegeta (DBS)'s Battle Suit"
+  },
+  {
+    "id": 336,
+    "name": "Gamma 1's Clothes"
+  },
+  {
+    "id": 337,
+    "name": "Gamma 2's Clothes"
+  },
+  {
+    "id": 338,
+    "name": "Red Ribbon Soldier 94 Clothes"
+  },
+  {
+    "id": 339,
+    "name": "Cell Max Suit"
+  },
+  {
+    "id": 340,
+    "name": "Dr. Hedo Suit"
+  },
+  {
+    "id": 342,
+    "name": "Goku's Turtle Hermit Gi (Custom)"
+  },
+  {
+    "id": 346,
+    "name": "Battle Suit (Bardock, Custom)"
+  },
+  {
+    "id": 347,
+    "name": "Super Baby 2's Clothes (Custom)"
+  },
+  {
+    "id": 349,
+    "name": "Majin Buu's Clothes (Custom)"
+  },
+  {
+    "id": 351,
+    "name": "Vegito's Clothes (Custom)"
+  },
+  {
+    "id": 352,
+    "name": "Gogeta's Clothes (Custom)"
+  },
+  {
+    "id": 353,
+    "name": "Pride Trooper Uniform (Custom)"
+  },
+  {
+    "id": 354,
+    "name": "Super 17's Clothes (Custom)"
+  },
+  {
+    "id": 356,
+    "name": "GT Vegeta's Jacket (Custom)"
+  },
+  {
+    "id": 357,
+    "name": "Festival Uniform"
+  },
+  {
+    "id": 402,
+    "name": "Costume Gloves (DLC) #402"
+  },
+  {
+    "id": 410,
+    "name": "Costume Gloves (DLC) #410"
+  },
+  {
+    "id": 412,
+    "name": "Battle Suit (Vegeta, on entry) (Custom)"
+  },
+  {
+    "id": 413,
+    "name": "Videl's Clothes (Custom)"
+  },
+  {
+    "id": 414,
+    "name": "Android 18's Clothes (Casual) (Custom)"
+  },
+  {
+    "id": 416,
+    "name": "Orange Star High School T-Shirt (Custom)"
+  },
+  {
+    "id": 417,
+    "name": "Gohan's Gi (Adult) (Custom)"
+  },
+  {
+    "id": 418,
+    "name": "Journey to the West Costume (Custom)"
+  },
+  {
+    "id": 423,
+    "name": "Bandages the Mummy Costume (Custom)"
+  },
+  {
+    "id": 452,
+    "name": "Videl (DB Super)'s Clothes"
+  },
+  {
+    "id": 453,
+    "name": "Beelzebub's Clothes"
+  },
+  {
+    "id": 455,
+    "name": "Pan's Clothes (Custom)"
+  },
+  {
+    "id": 456,
+    "name": "Wild Rider Suit (Custom)"
+  },
+  {
+    "id": 457,
+    "name": "Costume Gloves (DLC) #457"
+  },
+  {
+    "id": 459,
+    "name": "Bulma (DB Super)'s Clothes (Custom)"
+  },
+  {
+    "id": 461,
+    "name": "Belmod's Clothes"
+  },
+  {
+    "id": 462,
+    "name": "Goku (Mini)'s Gi"
+  },
+  {
+    "id": 463,
+    "name": "Master Korin's Suit"
+  },
+  {
+    "id": 465,
+    "name": "Costume Gloves (DLC) #465"
+  },
+  {
+    "id": 469,
+    "name": "Costume Gloves (DLC) #469"
+  },
+  {
+    "id": 476,
+    "name": "Costume Gloves (DLC) #476"
+  },
+  {
+    "id": 478,
+    "name": "Broken Battle Suit (Frieza Saga Vegeta)"
+  },
+  {
+    "id": 480,
+    "name": "Panzy's Clothes"
+  },
+  {
+    "id": 481,
+    "name": "SS4 Goku (DAIMA) Suit"
+  },
+  {
+    "id": 482,
+    "name": "SS3 Vegeta (DAIMA) Battle Suit"
+  },
+  {
+    "id": 483,
+    "name": "Chi-Chi Costume (Custom)"
+  },
+  {
+    "id": 484,
+    "name": "Angol's Clothes (Custom)"
+  },
+  {
+    "id": 485,
+    "name": "Ribrianne's Clothes (Custom)"
+  },
+  {
+    "id": 486,
+    "name": "Santa Costume (Custom)"
+  },
+  {
+    "id": 487,
+    "name": "Kakunsa's Clothes (Custom)"
+  },
+  {
+    "id": 488,
+    "name": "Rozie's Clothes (Custom)"
+  },
+  {
+    "id": 489,
+    "name": "Bulma (Kid)'s Clothes (Custom)"
+  },
+  {
+    "id": 492,
+    "name": "Costume Gloves (DLC) #492"
+  },
+  {
+    "id": 495,
+    "name": "Golden Frieza Suit"
+  },
+  {
+    "id": 496,
+    "name": "Costume Gloves (DLC) #496"
+  },
+  {
+    "id": 499,
+    "name": "Karinga Tribe Costume (Custom)"
+  },
+  {
+    "id": 500,
+    "name": "GT Trunks's Clothes (Custom)"
+  },
+  {
+    "id": 504,
+    "name": "Costume Gloves (DLC) #504"
+  },
+  {
+    "id": 508,
+    "name": "Costume Gloves (DLC) #508"
+  },
+  {
+    "id": 512,
+    "name": "Costume Gloves (DLC) #512"
+  },
+  {
+    "id": 516,
+    "name": "Costume Gloves (DLC) #516"
+  },
+  {
+    "id": 520,
+    "name": "Costume Gloves (DLC) #520"
+  },
+  {
+    "id": 524,
+    "name": "Costume Gloves (DLC) #524"
+  },
+  {
+    "id": 528,
+    "name": "Costume Gloves (DLC) #528"
+  },
+  {
+    "id": 529,
+    "name": "Goku (Ultra Supervillain Quelled)'s Clothes"
+  },
+  {
+    "id": 530,
+    "name": "Fu (Ultra Supervillain)'s Clothes"
+  },
+  {
+    "id": 531,
+    "name": "Videl T-Shirt (Custom)"
+  },
+  {
+    "id": 532,
+    "name": "Goku's Yardrat Clothes (Custom)"
+  },
+  {
+    "id": 533,
+    "name": "Yamcha's Clothes (Custom)"
+  },
+  {
+    "id": 534,
+    "name": "Launch Costume (Custom)"
+  },
+  {
+    "id": 535,
+    "name": "Battle Suit (Fasha, Custom)"
+  },
+  {
+    "id": 536,
+    "name": "Future Mai's Clothes (Custom)"
+  },
+  {
+    "id": 537,
+    "name": "Magetta's Suit (Custom)"
+  },
+  {
+    "id": 538,
+    "name": "Arabian Costume (Custom)"
+  },
+  {
+    "id": 539,
+    "name": "Super Saiyan 4 Suit (Goku, Custom)"
+  },
+  {
+    "id": 540,
+    "name": "King Vegeta (DBS)'s Battle Suit (Custom)"
+  },
+  {
+    "id": 541,
+    "name": "Ox King's Clothes (Custom)"
+  },
+  {
+    "id": 542,
+    "name": "Janemba Suit (Custom)"
+  },
+  {
+    "id": 543,
+    "name": "Fu's Clothes (Custom)"
+  },
+  {
+    "id": 544,
+    "name": "Battle Suit (King Cold, Custom)"
+  },
+  {
+    "id": 545,
+    "name": "Zamasu's Clothes (Custom)"
+  },
+  {
+    "id": 549,
+    "name": "Goku's Old Gi"
+  },
+  {
+    "id": 550,
+    "name": "Super Time Patroller Suit"
+  }
+]

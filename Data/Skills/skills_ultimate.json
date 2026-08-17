@@ -1,0 +1,1512 @@
+[
+  {
+    "id": 5000,
+    "id2": 0,
+    "name": "Super Kamehameha"
+  },
+  {
+    "id": 5001,
+    "id2": 1,
+    "name": "Super Saiyan"
+  },
+  {
+    "id": 5002,
+    "id2": 2,
+    "name": "Super Saiyan 2"
+  },
+  {
+    "id": 5003,
+    "id2": 3,
+    "name": "Super Saiyan 3"
+  },
+  {
+    "id": 5004,
+    "id2": 4,
+    "name": "Dragon Fist"
+  },
+  {
+    "id": 5005,
+    "id2": 5,
+    "name": "x4 Kaioken Kamehameha"
+  },
+  {
+    "id": 5006,
+    "id2": 6,
+    "name": "x20 Kaioken Kamehameha"
+  },
+  {
+    "id": 5007,
+    "id2": 7,
+    "name": "Breaker Energy Wave"
+  },
+  {
+    "id": 5008,
+    "id2": 8,
+    "name": "DUAL Super Kamehameha"
+  },
+  {
+    "id": 5009,
+    "id2": 9,
+    "name": "Super Spirit Bomb (Festival)"
+  },
+  {
+    "id": 5010,
+    "id2": 10,
+    "name": "Saiyan Spirit"
+  },
+  {
+    "id": 5011,
+    "id2": 11,
+    "name": "Super Ki Explosion"
+  },
+  {
+    "id": 5012,
+    "id2": 12,
+    "name": "Brave Heat"
+  },
+  {
+    "id": 5013,
+    "id2": 13,
+    "name": "Full Power Energy Wave"
+  },
+  {
+    "id": 5014,
+    "id2": 14,
+    "name": "DUAL Brave Heat"
+  },
+  {
+    "id": 5015,
+    "id2": 15,
+    "name": "Full Power Energy Wave"
+  },
+  {
+    "id": 5016,
+    "id2": 16,
+    "name": "Full Power Energy Wave"
+  },
+  {
+    "id": 5017,
+    "id2": 17,
+    "name": "Revenge Assault (Festival)"
+  },
+  {
+    "id": 5020,
+    "id2": 20,
+    "name": "x4 Kaioken Kamehameha"
+  },
+  {
+    "id": 5021,
+    "id2": 21,
+    "name": "x20 Kaioken Kamehameha"
+  },
+  {
+    "id": 5022,
+    "id2": 22,
+    "name": "Breaker Energy Wave"
+  },
+  {
+    "id": 5023,
+    "id2": 23,
+    "name": "DUAL Dragon Fist"
+  },
+  {
+    "id": 5040,
+    "id2": 40,
+    "name": "Super Spirit Bomb"
+  },
+  {
+    "id": 5041,
+    "id2": 41,
+    "name": "Super Spirit Bomb"
+  },
+  {
+    "id": 5042,
+    "id2": 42,
+    "name": "Super Spirit Bomb"
+  },
+  {
+    "id": 5043,
+    "id2": 43,
+    "name": "DUAL Super Spirit Bomb"
+  },
+  {
+    "id": 5050,
+    "id2": 50,
+    "name": "Full Power Energy Blast Volley"
+  },
+  {
+    "id": 5060,
+    "id2": 60,
+    "name": "Explosive Assault"
+  },
+  {
+    "id": 5061,
+    "id2": 61,
+    "name": "Unrelenting Barrage"
+  },
+  {
+    "id": 5062,
+    "id2": 62,
+    "name": "DUAL Explosive Assault"
+  },
+  {
+    "id": 5070,
+    "id2": 70,
+    "name": "Father-Son Kamehameha"
+  },
+  {
+    "id": 5071,
+    "id2": 71,
+    "name": "Violet Flash (Festival)"
+  },
+  {
+    "id": 5080,
+    "id2": 80,
+    "name": "Potential Unleashed"
+  },
+  {
+    "id": 5081,
+    "id2": 81,
+    "name": "Potential Awoken"
+  },
+  {
+    "id": 5082,
+    "id2": 82,
+    "name": "DUAL Super Kamehameha: Gohan (Adult)"
+  },
+  {
+    "id": 5090,
+    "id2": 90,
+    "name": "Special Beam Cannon"
+  },
+  {
+    "id": 5091,
+    "id2": 91,
+    "name": "Hellzone Grenade"
+  },
+  {
+    "id": 5092,
+    "id2": 92,
+    "name": "Reverse Mabakusenko"
+  },
+  {
+    "id": 5093,
+    "id2": 93,
+    "name": "DUAL Special Beam Cannon"
+  },
+  {
+    "id": 5100,
+    "id2": 100,
+    "name": "Chain Destructo-Disc Barrage"
+  },
+  {
+    "id": 5101,
+    "id2": 101,
+    "name": "Scatter Kamehameha"
+  },
+  {
+    "id": 5102,
+    "id2": 102,
+    "name": "DUAL Chain Destructo-Disc Barrage"
+  },
+  {
+    "id": 5110,
+    "id2": 110,
+    "name": "Spirit Ball"
+  },
+  {
+    "id": 5112,
+    "id2": 112,
+    "name": "DUAL Spirit Ball"
+  },
+  {
+    "id": 5113,
+    "id2": 113,
+    "name": "Spirit Ball"
+  },
+  {
+    "id": 5120,
+    "id2": 120,
+    "name": "Neo Tri-Beam"
+  },
+  {
+    "id": 5121,
+    "id2": 121,
+    "name": "DUAL Neo Tri-Beam"
+  },
+  {
+    "id": 5130,
+    "id2": 130,
+    "name": "Weekend"
+  },
+  {
+    "id": 5131,
+    "id2": 131,
+    "name": "Vacation Delete"
+  },
+  {
+    "id": 5132,
+    "id2": 132,
+    "name": "DUAL Weekend"
+  },
+  {
+    "id": 5140,
+    "id2": 140,
+    "name": "Self-Destruct"
+  },
+  {
+    "id": 5142,
+    "id2": 142,
+    "name": "Self-Destruct"
+  },
+  {
+    "id": 5150,
+    "id2": 150,
+    "name": "Break Cannon"
+  },
+  {
+    "id": 5151,
+    "id2": 151,
+    "name": "Giant Storm"
+  },
+  {
+    "id": 5152,
+    "id2": 152,
+    "name": "DUAL Giant Storm"
+  },
+  {
+    "id": 5153,
+    "id2": 153,
+    "name": "Giant Storm"
+  },
+  {
+    "id": 5160,
+    "id2": 160,
+    "name": "Super Vegeta"
+  },
+  {
+    "id": 5161,
+    "id2": 161,
+    "name": "Final Flash"
+  },
+  {
+    "id": 5162,
+    "id2": 162,
+    "name": "Super Vegeta 2"
+  },
+  {
+    "id": 5163,
+    "id2": 163,
+    "name": "Final Explosion"
+  },
+  {
+    "id": 5164,
+    "id2": 164,
+    "name": "DUAL Final Flash"
+  },
+  {
+    "id": 5170,
+    "id2": 170,
+    "name": "Final Shine Attack"
+  },
+  {
+    "id": 5171,
+    "id2": 171,
+    "name": "DUAL Final Shine Attack"
+  },
+  {
+    "id": 5180,
+    "id2": 180,
+    "name": "Paralysis"
+  },
+  {
+    "id": 5190,
+    "id2": 190,
+    "name": "Blue Hurricane"
+  },
+  {
+    "id": 5191,
+    "id2": 191,
+    "name": "Blue Hurricane"
+  },
+  {
+    "id": 5200,
+    "id2": 200,
+    "name": "Ultra Fighting Bomber"
+  },
+  {
+    "id": 5210,
+    "id2": 210,
+    "name": "Crusher Volcano"
+  },
+  {
+    "id": 5220,
+    "id2": 220,
+    "name": "Body Change"
+  },
+  {
+    "id": 5221,
+    "id2": 221,
+    "name": "DUAL Milky Cannon"
+  },
+  {
+    "id": 5230,
+    "id2": 230,
+    "name": "Supernova"
+  },
+  {
+    "id": 5231,
+    "id2": 231,
+    "name": "DUAL Supernova"
+  },
+  {
+    "id": 5240,
+    "id2": 240,
+    "name": "Death Ball"
+  },
+  {
+    "id": 5241,
+    "id2": 241,
+    "name": "Death Meteor"
+  },
+  {
+    "id": 5242,
+    "id2": 242,
+    "name": "Double Death Slicer"
+  },
+  {
+    "id": 5243,
+    "id2": 243,
+    "name": "Last Emperor"
+  },
+  {
+    "id": 5260,
+    "id2": 260,
+    "name": "Heat Dome Attack"
+  },
+  {
+    "id": 5270,
+    "id2": 270,
+    "name": "Victory Rush"
+  },
+  {
+    "id": 5271,
+    "id2": 271,
+    "name": "Victory Rush"
+  },
+  {
+    "id": 5280,
+    "id2": 280,
+    "name": "Super Electric Strike"
+  },
+  {
+    "id": 5281,
+    "id2": 281,
+    "name": "Dead End Bullet"
+  },
+  {
+    "id": 5282,
+    "id2": 282,
+    "name": "DUAL Super Electric Strike"
+  },
+  {
+    "id": 5290,
+    "id2": 290,
+    "name": "Shocking Death Ball"
+  },
+  {
+    "id": 5301,
+    "id2": 301,
+    "name": "Dual Destructo-Disc"
+  },
+  {
+    "id": 5302,
+    "id2": 302,
+    "name": "Dead End Rain"
+  },
+  {
+    "id": 5303,
+    "id2": 303,
+    "name": "DUAL Dead End Rain"
+  },
+  {
+    "id": 5310,
+    "id2": 310,
+    "name": "Perfect Kamehameha"
+  },
+  {
+    "id": 5311,
+    "id2": 311,
+    "name": "DUAL Perfect Kamehameha"
+  },
+  {
+    "id": 5340,
+    "id2": 340,
+    "name": "Justice Combination"
+  },
+  {
+    "id": 5341,
+    "id2": 341,
+    "name": "DUAL Justice Combination"
+  },
+  {
+    "id": 5350,
+    "id2": 350,
+    "name": "Innocence Breath"
+  },
+  {
+    "id": 5351,
+    "id2": 351,
+    "name": "Cookie Beam"
+  },
+  {
+    "id": 5352,
+    "id2": 352,
+    "name": "Angry Explosion"
+  },
+  {
+    "id": 5353,
+    "id2": 353,
+    "name": "DUAL Angry Explosion"
+  },
+  {
+    "id": 5360,
+    "id2": 360,
+    "name": "Assault Rain"
+  },
+  {
+    "id": 5361,
+    "id2": 361,
+    "name": "DUAL Assault Rain"
+  },
+  {
+    "id": 5370,
+    "id2": 370,
+    "name": "Super Vanishing Ball"
+  },
+  {
+    "id": 5371,
+    "id2": 371,
+    "name": "Teleporting Vanishing Ball"
+  },
+  {
+    "id": 5380,
+    "id2": 380,
+    "name": "Super Ghost Kamikaze Attack"
+  },
+  {
+    "id": 5381,
+    "id2": 381,
+    "name": "DUAL Super Ghost Kamikaze Attack"
+  },
+  {
+    "id": 5382,
+    "id2": 382,
+    "name": "Super Ghost Kamikaze Attack"
+  },
+  {
+    "id": 5390,
+    "id2": 390,
+    "name": "Spirit Sword"
+  },
+  {
+    "id": 5391,
+    "id2": 391,
+    "name": "Final Kamehameha"
+  },
+  {
+    "id": 5392,
+    "id2": 392,
+    "name": "DUAL Final Kamehameha"
+  },
+  {
+    "id": 5400,
+    "id2": 400,
+    "name": "Gigantic Meteor"
+  },
+  {
+    "id": 5401,
+    "id2": 401,
+    "name": "DUAL Gigantic Meteor"
+  },
+  {
+    "id": 5402,
+    "id2": 402,
+    "name": "Gigantic Meteor"
+  },
+  {
+    "id": 5410,
+    "id2": 410,
+    "name": "Sphere of Destruction"
+  },
+  {
+    "id": 5411,
+    "id2": 411,
+    "name": "DUAL Sphere of Destruction"
+  },
+  {
+    "id": 5420,
+    "id2": 420,
+    "name": "Maiden Blast"
+  },
+  {
+    "id": 5421,
+    "id2": 421,
+    "name": "DUAL Maiden Blast"
+  },
+  {
+    "id": 5440,
+    "id2": 440,
+    "name": "Super Great Ape Beam"
+  },
+  {
+    "id": 5441,
+    "id2": 441,
+    "name": "Gigantic Ki Blast"
+  },
+  {
+    "id": 5480,
+    "id2": 480,
+    "name": "Ice Cannon"
+  },
+  {
+    "id": 5481,
+    "id2": 481,
+    "name": "Ice Cannon"
+  },
+  {
+    "id": 5490,
+    "id2": 490,
+    "name": "Burning Spin"
+  },
+  {
+    "id": 5491,
+    "id2": 491,
+    "name": "Burning Spin"
+  },
+  {
+    "id": 5500,
+    "id2": 500,
+    "name": "Minus Energy Power Ball"
+  },
+  {
+    "id": 5501,
+    "id2": 501,
+    "name": "DUAL Minus Energy Power Ball"
+  },
+  {
+    "id": 5510,
+    "id2": 510,
+    "name": "x100 Big Bang Kamehameha"
+  },
+  {
+    "id": 5511,
+    "id2": 511,
+    "name": "DUAL x100 Big Bang Kamehameha"
+  },
+  {
+    "id": 5520,
+    "id2": 520,
+    "name": "The Savior Has Come"
+  },
+  {
+    "id": 5522,
+    "id2": 522,
+    "name": "DUAL The Savior Has Come"
+  },
+  {
+    "id": 5523,
+    "id2": 523,
+    "name": "DUAL The Savior Has Come"
+  },
+  {
+    "id": 5530,
+    "id2": 530,
+    "name": "Villainous Mode"
+  },
+  {
+    "id": 5531,
+    "id2": 531,
+    "name": "Baked Sphere"
+  },
+  {
+    "id": 5532,
+    "id2": 532,
+    "name": "Energy Jet"
+  },
+  {
+    "id": 5533,
+    "id2": 533,
+    "name": "Villainous Mode (Super Saiyan)"
+  },
+  {
+    "id": 5534,
+    "id2": 534,
+    "name": "Villainous Mode (Super Saiyan 2)"
+  },
+  {
+    "id": 5535,
+    "id2": 535,
+    "name": "Energy Jet"
+  },
+  {
+    "id": 5540,
+    "id2": 540,
+    "name": "Boiling Burg"
+  },
+  {
+    "id": 5620,
+    "id2": 620,
+    "name": "Serious Bomb"
+  },
+  {
+    "id": 5630,
+    "id2": 630,
+    "name": "Energy Zone"
+  },
+  {
+    "id": 5631,
+    "id2": 631,
+    "name": "Energy Zone"
+  },
+  {
+    "id": 5632,
+    "id2": 632,
+    "name": "Energy Zone"
+  },
+  {
+    "id": 5635,
+    "id2": 635,
+    "name": "Energy Zone"
+  },
+  {
+    "id": 5650,
+    "id2": 650,
+    "name": "Symphonic Destruction"
+  },
+  {
+    "id": 5651,
+    "id2": 651,
+    "name": "DUAL Symphonic Destruction"
+  },
+  {
+    "id": 5670,
+    "id2": 670,
+    "name": "Super Elite Combo"
+  },
+  {
+    "id": 5671,
+    "id2": 671,
+    "name": "Super Elite Combo"
+  },
+  {
+    "id": 5672,
+    "id2": 672,
+    "name": "DUAL Super Elite Combo"
+  },
+  {
+    "id": 5730,
+    "id2": 730,
+    "name": "The Savior Has Come"
+  },
+  {
+    "id": 5750,
+    "id2": 750,
+    "name": "Zetsumei Bullet"
+  },
+  {
+    "id": 5800,
+    "id2": 800,
+    "name": "Warp Kamehameha"
+  },
+  {
+    "id": 5801,
+    "id2": 801,
+    "name": "DUAL Warp Kamehameha"
+  },
+  {
+    "id": 5810,
+    "id2": 810,
+    "name": "Super Galick Gun"
+  },
+  {
+    "id": 5811,
+    "id2": 811,
+    "name": "Super Galick Gun"
+  },
+  {
+    "id": 5812,
+    "id2": 812,
+    "name": "Super Galick Gun"
+  },
+  {
+    "id": 5820,
+    "id2": 820,
+    "name": "Emperor's Death Beam"
+  },
+  {
+    "id": 5821,
+    "id2": 821,
+    "name": "Emperor's Death Beam"
+  },
+  {
+    "id": 5830,
+    "id2": 830,
+    "name": "Hell Flash"
+  },
+  {
+    "id": 5831,
+    "id2": 831,
+    "name": "DUAL Hell Flash"
+  },
+  {
+    "id": 5832,
+    "id2": 832,
+    "name": "Hell Flash"
+  },
+  {
+    "id": 5850,
+    "id2": 850,
+    "name": "Supernova Cooler"
+  },
+  {
+    "id": 5851,
+    "id2": 851,
+    "name": "DUAL Supernova (Cooler)"
+  },
+  {
+    "id": 5860,
+    "id2": 860,
+    "name": "One-Handed Kamehameha mk.II"
+  },
+  {
+    "id": 5861,
+    "id2": 861,
+    "name": "Future Super Saiyan"
+  },
+  {
+    "id": 5862,
+    "id2": 862,
+    "name": "One-Handed Kamehameha"
+  },
+  {
+    "id": 5863,
+    "id2": 863,
+    "name": "Father-Son Kamehameha"
+  },
+  {
+    "id": 5864,
+    "id2": 864,
+    "name": "DUAL One-Handed Kamehameha"
+  },
+  {
+    "id": 5870,
+    "id2": 870,
+    "name": "Meteor Burst"
+  },
+  {
+    "id": 5871,
+    "id2": 871,
+    "name": "DUAL Meteor Burst"
+  },
+  {
+    "id": 5872,
+    "id2": 872,
+    "name": "Meteor Burst"
+  },
+  {
+    "id": 5880,
+    "id2": 880,
+    "name": "Dimension Ray"
+  },
+  {
+    "id": 5881,
+    "id2": 881,
+    "name": "DUAL Dimension Ray"
+  },
+  {
+    "id": 5882,
+    "id2": 882,
+    "name": "Unknown (5882)"
+  },
+  {
+    "id": 6100,
+    "id2": 1100,
+    "name": "Lightning Impact"
+  },
+  {
+    "id": 6101,
+    "id2": 1101,
+    "name": "Innocence Breath"
+  },
+  {
+    "id": 6102,
+    "id2": 1102,
+    "name": "Innocence Breath"
+  },
+  {
+    "id": 6103,
+    "id2": 1103,
+    "name": "Lightning Impact"
+  },
+  {
+    "id": 6110,
+    "id2": 1110,
+    "name": "Excellent Full Course"
+  },
+  {
+    "id": 6111,
+    "id2": 1111,
+    "name": "Appetizing Rush"
+  },
+  {
+    "id": 6120,
+    "id2": 1120,
+    "name": "Timespace Impact"
+  },
+  {
+    "id": 6121,
+    "id2": 1121,
+    "name": "Godly Chronos Cannon"
+  },
+  {
+    "id": 6122,
+    "id2": 1122,
+    "name": "Unknown (6122)"
+  },
+  {
+    "id": 6130,
+    "id2": 1130,
+    "name": "Thunder Flash"
+  },
+  {
+    "id": 6131,
+    "id2": 1131,
+    "name": "Thunder Flash"
+  },
+  {
+    "id": 6140,
+    "id2": 1140,
+    "name": "Destructive Fission"
+  },
+  {
+    "id": 6141,
+    "id2": 1141,
+    "name": "Destructive Fission"
+  },
+  {
+    "id": 6150,
+    "id2": 1150,
+    "name": "Power Wall"
+  },
+  {
+    "id": 6151,
+    "id2": 1151,
+    "name": "Power Wall"
+  },
+  {
+    "id": 6160,
+    "id2": 1160,
+    "name": "Meteor Explosion"
+  },
+  {
+    "id": 6161,
+    "id2": 1161,
+    "name": "DUAL Meteor Explosion"
+  },
+  {
+    "id": 6162,
+    "id2": 1162,
+    "name": "Meteor Explosion"
+  },
+  {
+    "id": 6170,
+    "id2": 1170,
+    "name": "Crush Stream"
+  },
+  {
+    "id": 6171,
+    "id2": 1171,
+    "name": "Crush Stream"
+  },
+  {
+    "id": 6180,
+    "id2": 1180,
+    "name": "Blaster Stream"
+  },
+  {
+    "id": 6181,
+    "id2": 1181,
+    "name": "Blaster Stream"
+  },
+  {
+    "id": 6200,
+    "id2": 1200,
+    "name": "Soul Punisher"
+  },
+  {
+    "id": 6210,
+    "id2": 1210,
+    "name": "Darkness Rush (Ranged)"
+  },
+  {
+    "id": 6211,
+    "id2": 1211,
+    "name": "Darkness Rush (Melee)"
+  },
+  {
+    "id": 6212,
+    "id2": 1212,
+    "name": "DUAL Darkness Rush"
+  },
+  {
+    "id": 6220,
+    "id2": 1220,
+    "name": "Elegant Blaster"
+  },
+  {
+    "id": 6221,
+    "id2": 1221,
+    "name": "DUAL Elegant Blaster"
+  },
+  {
+    "id": 6230,
+    "id2": 1230,
+    "name": "Dodoria Launcher"
+  },
+  {
+    "id": 6231,
+    "id2": 1231,
+    "name": "DUAL Dodoria Launcher"
+  },
+  {
+    "id": 6240,
+    "id2": 1240,
+    "name": "Mystic Flash"
+  },
+  {
+    "id": 6251,
+    "id2": 1251,
+    "name": "Gigantic Ki Blast"
+  },
+  {
+    "id": 6252,
+    "id2": 1252,
+    "name": "Gigantic Ki Blast"
+  },
+  {
+    "id": 6260,
+    "id2": 1260,
+    "name": "Time Skip/Molotov"
+  },
+  {
+    "id": 6261,
+    "id2": 1261,
+    "name": "DUAL Time Skip/Molotov"
+  },
+  {
+    "id": 6310,
+    "id2": 1310,
+    "name": "Super Black Kamehameha"
+  },
+  {
+    "id": 6311,
+    "id2": 1311,
+    "name": "Super Black Kamehameha"
+  },
+  {
+    "id": 6312,
+    "id2": 1312,
+    "name": "DUAL Super Black Kamehameha"
+  },
+  {
+    "id": 6320,
+    "id2": 1320,
+    "name": "Burning Strike"
+  },
+  {
+    "id": 6321,
+    "id2": 1321,
+    "name": "Sword of Hope"
+  },
+  {
+    "id": 6322,
+    "id2": 1322,
+    "name": "Burning Strike"
+  },
+  {
+    "id": 6323,
+    "id2": 1323,
+    "name": "Sword of Hope"
+  },
+  {
+    "id": 6324,
+    "id2": 1324,
+    "name": "DUAL Burning Strike"
+  },
+  {
+    "id": 6325,
+    "id2": 1325,
+    "name": "Burning Strike"
+  },
+  {
+    "id": 6330,
+    "id2": 1330,
+    "name": "Secret Poison"
+  },
+  {
+    "id": 6331,
+    "id2": 1331,
+    "name": "Secret Poison"
+  },
+  {
+    "id": 6340,
+    "id2": 1340,
+    "name": "Impulse Slash"
+  },
+  {
+    "id": 6341,
+    "id2": 1341,
+    "name": "Impulse Slash"
+  },
+  {
+    "id": 6360,
+    "id2": 1360,
+    "name": "Requiem of Destruction"
+  },
+  {
+    "id": 6370,
+    "id2": 1370,
+    "name": "God of Destruction's Menace"
+  },
+  {
+    "id": 6380,
+    "id2": 1380,
+    "name": "Instant Severance"
+  },
+  {
+    "id": 6381,
+    "id2": 1381,
+    "name": "DUAL Instant Severance"
+  },
+  {
+    "id": 6382,
+    "id2": 1382,
+    "name": "Instant Severance"
+  },
+  {
+    "id": 6383,
+    "id2": 1383,
+    "name": "Instant Severance (Festival)"
+  },
+  {
+    "id": 6390,
+    "id2": 1390,
+    "name": "Divine Lasso"
+  },
+  {
+    "id": 6391,
+    "id2": 1391,
+    "name": "Super Black Kamehameha Ros\u00e9"
+  },
+  {
+    "id": 6392,
+    "id2": 1392,
+    "name": "Divine Lasso"
+  },
+  {
+    "id": 6393,
+    "id2": 1393,
+    "name": "DUAL Divine Lasso"
+  },
+  {
+    "id": 6400,
+    "id2": 1400,
+    "name": "Grand Smasher"
+  },
+  {
+    "id": 6401,
+    "id2": 1401,
+    "name": "DUAL Grand Smasher"
+  },
+  {
+    "id": 6402,
+    "id2": 1402,
+    "name": "Unknown (6402)"
+  },
+  {
+    "id": 6410,
+    "id2": 1410,
+    "name": "Final Kamehameha (Festival)"
+  },
+  {
+    "id": 6421,
+    "id2": 1421,
+    "name": "Divine Wrath: Purification"
+  },
+  {
+    "id": 6430,
+    "id2": 1430,
+    "name": "Flames of Retribution"
+  },
+  {
+    "id": 6440,
+    "id2": 1440,
+    "name": "Super Kamehameha"
+  },
+  {
+    "id": 6450,
+    "id2": 1450,
+    "name": "Evil Blast"
+  },
+  {
+    "id": 6451,
+    "id2": 1451,
+    "name": "Evil Blast"
+  },
+  {
+    "id": 6460,
+    "id2": 1460,
+    "name": "S.S. Deadly Bomber"
+  },
+  {
+    "id": 6461,
+    "id2": 1461,
+    "name": "S.S. Deadly Bomber"
+  },
+  {
+    "id": 6462,
+    "id2": 1462,
+    "name": "Unknown (6462)"
+  },
+  {
+    "id": 6470,
+    "id2": 1470,
+    "name": "Brave Sword Attack"
+  },
+  {
+    "id": 6471,
+    "id2": 1471,
+    "name": "DUAL Brave Sword Attack"
+  },
+  {
+    "id": 6490,
+    "id2": 1490,
+    "name": "Power Rush"
+  },
+  {
+    "id": 6491,
+    "id2": 1491,
+    "name": "Power Rush"
+  },
+  {
+    "id": 6492,
+    "id2": 1492,
+    "name": "Power Rush"
+  },
+  {
+    "id": 6493,
+    "id2": 1493,
+    "name": "Power Rush"
+  },
+  {
+    "id": 6494,
+    "id2": 1494,
+    "name": "DUAL Power Rush"
+  },
+  {
+    "id": 6500,
+    "id2": 1500,
+    "name": "Remote Serious Bomb"
+  },
+  {
+    "id": 6501,
+    "id2": 1501,
+    "name": "DUAL Remote Serious Bomb"
+  },
+  {
+    "id": 6502,
+    "id2": 1502,
+    "name": "Remote Serious Bomb"
+  },
+  {
+    "id": 6510,
+    "id2": 1510,
+    "name": "Godly Display"
+  },
+  {
+    "id": 6511,
+    "id2": 1511,
+    "name": "Super Kamehameha"
+  },
+  {
+    "id": 6520,
+    "id2": 1520,
+    "name": "Gigantic Burst"
+  },
+  {
+    "id": 6521,
+    "id2": 1521,
+    "name": "DUAL Gigantic Burst"
+  },
+  {
+    "id": 6530,
+    "id2": 1530,
+    "name": "Revenge Death Ball"
+  },
+  {
+    "id": 6531,
+    "id2": 1531,
+    "name": "DUAL Revenge Death Ball"
+  },
+  {
+    "id": 6540,
+    "id2": 1540,
+    "name": "Super Kamehameha"
+  },
+  {
+    "id": 6541,
+    "id2": 1541,
+    "name": "God Punisher"
+  },
+  {
+    "id": 6542,
+    "id2": 1542,
+    "name": "God Punisher (Festival)"
+  },
+  {
+    "id": 6550,
+    "id2": 1550,
+    "name": "Gigantic Roar"
+  },
+  {
+    "id": 6551,
+    "id2": 1551,
+    "name": "DUAL Gigantic Roar"
+  },
+  {
+    "id": 6560,
+    "id2": 1560,
+    "name": "Ribrianne's Eternal Love"
+  },
+  {
+    "id": 6561,
+    "id2": 1561,
+    "name": "Lovely Showtime"
+  },
+  {
+    "id": 6570,
+    "id2": 1570,
+    "name": "Final Explosion"
+  },
+  {
+    "id": 6572,
+    "id2": 1572,
+    "name": "Final Galick Rush"
+  },
+  {
+    "id": 6580,
+    "id2": 1580,
+    "name": "Prominence Flash"
+  },
+  {
+    "id": 6581,
+    "id2": 1581,
+    "name": "Prominence Flash"
+  },
+  {
+    "id": 6582,
+    "id2": 1582,
+    "name": "DUAL Prominence Flash"
+  },
+  {
+    "id": 7010,
+    "id2": 2010,
+    "name": "Sign of Awakening"
+  },
+  {
+    "id": 7020,
+    "id2": 2020,
+    "name": "Circle Flash"
+  },
+  {
+    "id": 7060,
+    "id2": 2060,
+    "name": "Super Gamma Blast"
+  },
+  {
+    "id": 7061,
+    "id2": 2061,
+    "name": "Super Gamma Blast"
+  },
+  {
+    "id": 7070,
+    "id2": 2070,
+    "name": "Core Breaker"
+  },
+  {
+    "id": 7071,
+    "id2": 2071,
+    "name": "Core Breaker"
+  },
+  {
+    "id": 7080,
+    "id2": 2080,
+    "name": "Super Kamehameha"
+  },
+  {
+    "id": 7081,
+    "id2": 2081,
+    "name": "Super Dragon Flight"
+  },
+  {
+    "id": 7090,
+    "id2": 2090,
+    "name": "Special Beam Cannon (Beast)"
+  },
+  {
+    "id": 7100,
+    "id2": 2100,
+    "name": "Evil Explosion"
+  },
+  {
+    "id": 7101,
+    "id2": 2101,
+    "name": "Light Grenade"
+  },
+  {
+    "id": 7110,
+    "id2": 2110,
+    "name": "Apocalyptic Burst"
+  },
+  {
+    "id": 7120,
+    "id2": 2120,
+    "name": "Explosive Scream"
+  },
+  {
+    "id": 7130,
+    "id2": 2130,
+    "name": "Pendulum Bullet"
+  },
+  {
+    "id": 7140,
+    "id2": 2140,
+    "name": "Justice Drive"
+  },
+  {
+    "id": 7160,
+    "id2": 2160,
+    "name": "Gigantic Explosion"
+  },
+  {
+    "id": 7161,
+    "id2": 2161,
+    "name": "Gigantic Explosion"
+  },
+  {
+    "id": 7162,
+    "id2": 2162,
+    "name": "Gigantic Explosion"
+  },
+  {
+    "id": 7170,
+    "id2": 2170,
+    "name": "Final Rampage"
+  },
+  {
+    "id": 7171,
+    "id2": 2171,
+    "name": "Final Rampage"
+  },
+  {
+    "id": 7180,
+    "id2": 2180,
+    "name": "Divine Ray Bomb"
+  },
+  {
+    "id": 7181,
+    "id2": 2181,
+    "name": "Divine Ray Bomb"
+  },
+  {
+    "id": 7210,
+    "id2": 2210,
+    "name": "God of Destruction's Might"
+  },
+  {
+    "id": 7220,
+    "id2": 2220,
+    "name": "Full Power Destruction"
+  },
+  {
+    "id": 7221,
+    "id2": 2221,
+    "name": "Full Power Destruction"
+  },
+  {
+    "id": 7230,
+    "id2": 2230,
+    "name": "Burst Blitz"
+  },
+  {
+    "id": 7240,
+    "id2": 2240,
+    "name": "Super Kamehameha (SS4 DAIMA)"
+  },
+  {
+    "id": 7250,
+    "id2": 2250,
+    "name": "Final Flash (SS3 DAIMA)"
+  },
+  {
+    "id": 7260,
+    "id2": 2260,
+    "name": "Gigantic Nova"
+  },
+  {
+    "id": 7270,
+    "id2": 2270,
+    "name": "Chaotic Time Impact"
+  },
+  {
+    "id": 7280,
+    "id2": 2280,
+    "name": "Last Emperor"
+  },
+  {
+    "id": 7320,
+    "id2": 2320,
+    "name": "Venus Fist"
+  },
+  {
+    "id": 7340,
+    "id2": 2340,
+    "name": "Timespace Impact"
+  },
+  {
+    "id": 7341,
+    "id2": 2341,
+    "name": "Godly Chronos Cannon"
+  },
+  {
+    "id": 7350,
+    "id2": 2350,
+    "name": "- Error -"
+  },
+  {
+    "id": 7351,
+    "id2": 2351,
+    "name": "- Error -"
+  },
+  {
+    "id": 7380,
+    "id2": 2380,
+    "name": "Timespace Impact (v2)"
+  },
+  {
+    "id": 7381,
+    "id2": 2381,
+    "name": "Godly Chronos Cannon (v2)"
+  }
+]

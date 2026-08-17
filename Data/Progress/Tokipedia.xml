@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TokipediaRequirements>
+<!-- Prologue has no paths -->
+
+<!-- New Time Rift Troubles-->
+  <TokipediaEntry ID="1">
+	<BranchingPaths Flags="Goku,Gotenks,Beerus,Whis" />
+	<AlternatePaths Flags="Vegeta,Hercule,Jaco" />
+  </TokipediaEntry>
+  
+<!-- Android Assault on History-->
+  <TokipediaEntry ID="2">
+	<BranchingPaths Flags="Goku,Android18,Broly,Bardock" />
+	<AlternatePaths Flags="Krillin,Hercule,Beerus,Jaco,Whis" />
+  </TokipediaEntry>
+  
+<!-- Unwelcome Challenger-->
+  <TokipediaEntry ID="3">
+	<BranchingPaths Flags="Vegeta,Cell" />
+	<AlternatePaths Flags="Goku,Beerus,Jaco,Whis,FutureGohan" />
+  </TokipediaEntry>
+  
+<!-- Videls Vexation-->
+  <TokipediaEntry ID="4">
+	<BranchingPaths Flags="Yamcha,MajinBuu" />
+	<AlternatePaths Flags="Hercule,AdultGohan,Beerus,Whis,FutureGohan" />
+  </TokipediaEntry>
+  
+<!-- Another Savior Has Come-->
+  <TokipediaEntry ID="5">
+	<BranchingPaths Flags="Tien,Piccolo,Gotenks" />
+	<AlternatePaths Flags="LordSlug,Hercule,Beerus,Jaco,Whis" />
+  </TokipediaEntry>
+  
+<!-- Holding Onto Hope-->
+  <TokipediaEntry ID="6">
+	<BranchingPaths Flags="Vegeta,Frieza" />
+	<AlternatePaths Flags="Hercule,Beerus,Jaco,Whis" />
+  </TokipediaEntry>
+  
+<!-- The Hero Tapion Awakens-->
+  <TokipediaEntry ID="7">
+	<BranchingPaths Flags="Ginyu,Turles,Android16" />
+	<AlternatePaths Flags="Goku,Frieza,Hercule,Beerus,Jaco,Whis" />
+  </TokipediaEntry>
+  
+<!-- The End of Conton City-->
+  <TokipediaEntry ID="8">
+	<BranchingPaths Flags="None" />
+	<AlternatePaths Flags="Goku,Krillin,Tien,Yamcha,Piccolo,Raditz,KidGohan,Nappa,Vegeta,Zarbon,Dodoria,Ginyu,Frieza,Android18,Cell,LordSlug,MajinBuu,Hercule,AdultGohan,Gotenks,Turles,Broly,Beerus,Pan,Jaco,Whis,Cooler,Android16,FutureGohan,Bardock,Fuu" />
+  </TokipediaEntry>
+  
+<!-- Hero of History-->
+  <TokipediaEntry ID="9">
+	<BranchingPaths Flags="None" />
+	<AlternatePaths Flags="Hercule" />
+  </TokipediaEntry>
+  
+<!-- Champion For Change-->
+  <TokipediaEntry ID="10">
+	<BranchingPaths Flags="Goku,Krillin,Raditz" />
+	<AlternatePaths Flags="Hercule,AdultGohan,Jaco,Cooler" />
+  </TokipediaEntry>
+</TokipediaRequirements>

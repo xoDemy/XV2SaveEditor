@@ -1,0 +1,174 @@
+[
+  {
+    "id": 0,
+    "name": "Energy Capsule S"
+  },
+  {
+    "id": 1,
+    "name": "Energy Capsule M"
+  },
+  {
+    "id": 2,
+    "name": "Energy Capsule L"
+  },
+  {
+    "id": 3,
+    "name": "Energy Capsule Z"
+  },
+  {
+    "id": 4,
+    "name": "Regen Capsule S"
+  },
+  {
+    "id": 5,
+    "name": "Regen Capsule M"
+  },
+  {
+    "id": 6,
+    "name": "All-Energy Capsule S"
+  },
+  {
+    "id": 7,
+    "name": "All-Energy Capsule M"
+  },
+  {
+    "id": 8,
+    "name": "All-Energy Capsule L"
+  },
+  {
+    "id": 9,
+    "name": "All-Energy Capsule Z"
+  },
+  {
+    "id": 10,
+    "name": "All-Regen Capsule S"
+  },
+  {
+    "id": 11,
+    "name": "All-Regen Capsule M"
+  },
+  {
+    "id": 12,
+    "name": "Power Capsule S"
+  },
+  {
+    "id": 13,
+    "name": "Power Capsule M"
+  },
+  {
+    "id": 14,
+    "name": "All-Power Capsule S"
+  },
+  {
+    "id": 15,
+    "name": "Aura Capsule S"
+  },
+  {
+    "id": 16,
+    "name": "Aura Capsule M"
+  },
+  {
+    "id": 17,
+    "name": "Aura Capsule L"
+  },
+  {
+    "id": 18,
+    "name": "All-Aura Capsule S"
+  },
+  {
+    "id": 19,
+    "name": "All-Aura Capsule M"
+  },
+  {
+    "id": 20,
+    "name": "Mr. Antidote S"
+  },
+  {
+    "id": 21,
+    "name": "Mr. Antidote M"
+  },
+  {
+    "id": 22,
+    "name": "Mr. Antidote L"
+  },
+  {
+    "id": 23,
+    "name": "Mr. Shape Up S"
+  },
+  {
+    "id": 24,
+    "name": "Mr. Shape Up M"
+  },
+  {
+    "id": 25,
+    "name": "Mr. Shape Up L"
+  },
+  {
+    "id": 26,
+    "name": "Senzu Essence Capsule"
+  },
+  {
+    "id": 30,
+    "name": "Regen Capsule L"
+  },
+  {
+    "id": 31,
+    "name": "All-Regen Capsule L"
+  },
+  {
+    "id": 32,
+    "name": "Power Capsule L"
+  },
+  {
+    "id": 33,
+    "name": "Power Capsule Z"
+  },
+  {
+    "id": 34,
+    "name": "All-Power Capsule M"
+  },
+  {
+    "id": 35,
+    "name": "All-Power Capsule L"
+  },
+  {
+    "id": 36,
+    "name": "Aura Capsule Z"
+  },
+  {
+    "id": 37,
+    "name": "All-Aura Capsule L"
+  },
+  {
+    "id": 38,
+    "name": "Mr. Antidote Z"
+  },
+  {
+    "id": 39,
+    "name": "Mr. Shape Up Z"
+  },
+  {
+    "id": 100,
+    "name": "Energy Capsule S"
+  },
+  {
+    "id": 101,
+    "name": "Energy Capsule M"
+  },
+  {
+    "id": 200,
+    "name": "Energy Capsule S"
+  },
+  {
+    "id": 201,
+    "name": "Energy Capsule M"
+  },
+  {
+    "id": 300,
+    "name": "Zen-Oh Button"
+  },
+  {
+    "id": 301,
+    "name": "Fu's Healing Capsule"
+  }
+]

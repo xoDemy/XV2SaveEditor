@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 0,
+    "id2": 0,
+    "name": "Kamehameha"
+  },
+  {
+    "id": 1,
+    "id2": 1,
+    "name": "Bending Kamehameha"
+  },
+  {
+    "id": 2,
+    "id2": 2,
+    "name": "Super God Fist"
+  },
+  {
+    "id": 3,
+    "id2": 3,
+    "name": "Super Dragon Fist"
+  },
+  {
+    "id": 4,
+    "id2": 4,
+    "name": "Spirit Bomb"
+  },
+  {
+    "id": 5,
+    "id2": 5,
+    "name": "Instant Transmission"
+  },
+  {
+    "id": 6,
+    "id2": 6,
+    "name": "Spirit Bomb Tower (Time Patrol Specific)"
+  },
+  {
+    "id": 7,
+    "id2": 7,
+    "name": "Kaioken Assault"
+  },
+  {
+    "id": 8,
+    "id2": 8,
+    "name": "Kaioken Kamehameha"
+  },
+  {
+    "id": 9,
+    "id2": 9,
+    "name": "Unknown (9)"
+  },
+  {
+    "id": 10,
+    "id2": 10,
+    "name": "Riot Javelin"
+  },
+  {
+    "id": 11,
+    "id2": 11,
+    "name": "Rebellion Spear"
+  },
+  {
+    "id": 12,
+    "id2": 12,
+    "name": "Tyrant Lancer"
+  },
+  {
+    "id": 13,
+    "id2": 13,
+    "name": "Rebellion Spear"
+  },
+  {
+    "id": 14,
+    "id2": 14,
+    "name": "Super Guard"
+  },
+  {
+    "id": 15,
+    "id2": 15,
+    "name": "Ki Explosion"
+  },
+  {
+    "id": 16,
+    "id2": 16,
+    "name": "Charged Ki Wave"
+  },
+  {
+    "id": 17,
+    "id2": 17,
+    "name": "Riot Javelin"
+  },
+  {
+    "id": 18,
+    "id2": 18,
+    "name": "Unknown (18)"
+  },
+  {
+    "id": 20,
+    "id2": 20,
+    "name": "Afterimage Strike"
+  },
+  {
+    "id": 21,
+    "id2": 21,
+    "name": "x10 Kamehameha"
+  },
+  {
+    "id": 22,
+    "id2": 22,
+    "name": "Super Afterimage"
+  },
+  {
+    "id": 30,
+    "id2": 30,
+    "name": "Super God Fist"
+  },
+  {
+    "id": 31,
+    "id2": 31,
+    "name": "Shockwave"
+  },
+  {
+    "id": 32,
+    "id2": 32,
+    "name": "Backflip"
+  },
+  {
+    "id": 33,
+    "id2": 33,
+    "name": "Backflip"
+  },
+  {
+    "id": 34,
+    "id2": 34,
+    "name": "God Bind (Festival)"
+  },
+  {
+    "id": 40,
+    "id2": 40,
+    "name": "Kamehameha Boost"
+  },
+  {
+    "id": 41,
+    "id2": 41,
+    "name": "Scissors Paper Rock"
+  },
+  {
+    "id": 42,
+    "id2": 42,
+    "name": "Power Pole"
+  },
+  {
+    "id": 43,
+    "id2": 43,
+    "name": "Power Pole Combo"
+  },
+  {
+    "id": 44,
+    "id2": 44,
+    "name": "Power Pole"
+  },
+  {
+    "id": 50,
+    "id2": 50,
+    "name": "Charge"
+  },
+  {
+    "id": 51,
+    "id2": 51,
+    "name": "Stone Bullet"
+  },
+  {
+    "id": 52,
+    "id2": 52,
+    "name": "Consecutive Energy Blast"
+  },
+  {
+    "id": 53,
+    "id2": 53,
+    "name": "Kamekameha"
+  },
+  {
+    "id": 54,
+    "id2": 54,
+    "name": "Charge (Festival)"
+  },
+  {
+    "id": 60,
+    "id2": 60,
+    "name": "Evil Ray Strike"
+  },
+  {
+    "id": 61,
+    "id2": 61,
+    "name": "Evil Rise Strike"
+  },
+  {
+    "id": 62,
+    "id2": 62,
+    "name": "Masenko"
+  },
+  {
+    "id": 63,
+    "id2": 63,
+    "name": "Menacing Flare"
+  },
+  {
+    "id": 70,
+    "id2": 70,
+    "name": "Super Dragon Flight"
+  },
+  {
+    "id": 71,
+    "id2": 71,
+    "name": "Evil Whirlwind"
+  },
+  {
+    "id": 80,
+    "id2": 80,
+    "name": "Burst Rush"
+  },
+  {
+    "id": 81,
+    "id2": 81,
+    "name": "Ki Blast Cannon"
+  },
+  {
+    "id": 82,
+    "id2": 82,
+    "name": "Justice Pose"
+  },
+  {
+    "id": 90,
+    "id2": 90,
+    "name": "Evil Explosion"
+  },
+  {
+    "id": 91,
+    "id2": 91,
+    "name": "Wall of Defense"
+  },
+  {
+    "id": 92,
+    "id2": 92,
+    "name": "Evil Flight Strike"
+  },
+  {
+    "id": 93,
+    "id2": 93,
+    "name": "Light Grenade"
+  },
+  {
+    "id": 94,
+    "id2": 94,
+    "name": "Evil Eyes"
+  },
+  {
+    "id": 95,
+    "id2": 95,
+    "name": "Dust Attack"
+  },
+  {
+    "id": 96,
+    "id2": 96,
+    "name": "Paralyze Beam"
+  },
+  {
+    "id": 97,
+    "id2": 97,
+    "name": "Sonic Kick"
+  },
+  {
+    "id": 98,
+    "id2": 98,
+    "name": "Hellzone Grenade (Festival)"
+  },
+  {
+    "id": 100,
+    "id2": 100,
+    "name": "Orin Combo"
+  },
+  {
+    "id": 101,
+    "id2": 101,
+    "name": "Destructo-Disc"
+  },
+  {
+    "id": 102,
+    "id2": 102,
+    "name": "Kaioken"
+  },
+  {
+    "id": 103,
+    "id2": 103,
+    "name": "X3 Kaioken"
+  },
+  {
+    "id": 104,
+    "id2": 104,
+    "name": "X20 Kaioken"
+  },
+  {
+    "id": 105,
+    "id2": 105,
+    "name": "Turtle Style Last Resort"
+  },
+  {
+    "id": 106,
+    "id2": 106,
+    "name": "Lullaby Punch"
+  },
+  {
+    "id": 107,
+    "id2": 107,
+    "name": "Cross Arm Dive"
+  },
+  {
+    "id": 108,
+    "id2": 108,
+    "name": "Super Destructo-Disc"
+  },
+  {
+    "id": 109,
+    "id2": 109,
+    "name": "Jumping Energy Wave"
+  },
+  {
+    "id": 110,
+    "id2": 110,
+    "name": "Wolf Fang Fist"
+  },
+  {
+    "id": 111,
+    "id2": 111,
+    "name": "Ki Blast Thrust"
+  },
+  {
+    "id": 115,
+    "id2": 115,
+    "name": "Afterimage"
+  },
+  {
+    "id": 116,
+    "id2": 116,
+    "name": "Fake Death"
+  },
+  {
+    "id": 117,
+    "id2": 117,
+    "name": "Neo Wolf Fang Fist"
+  },
+  {
+    "id": 120,
+    "id2": 120,
+    "name": "Dodon Ray"
+  },
+  {
+    "id": 121,
+    "id2": 121,
+    "name": "Tri-Beam"
+  },
+  {
+    "id": 122,
+    "id2": 122,
+    "name": "Volleyball Fist"
+  },
+  {
+    "id": 123,
+    "id2": 123,
+    "name": "Solar Flare"
+  },
+  {
+    "id": 124,
+    "id2": 124,
+    "name": "Rise to Action"
+  },
+  {
+    "id": 125,
+    "id2": 125,
+    "name": "Spirit Boost"
+  },
+  {
+    "id": 130,
+    "id2": 130,
+    "name": "Double Sunday"
+  },
+  {
+    "id": 131,
+    "id2": 131,
+    "name": "Saturday Crash"
+  },
+  {
+    "id": 132,
+    "id2": 132,
+    "name": "Shining Friday"
+  },
+  {
+    "id": 133,
+    "id2": 133,
+    "name": "Double Sunday (Festival)"
+  },
+  {
+    "id": 140,
+    "id2": 140,
+    "name": "Acid"
+  },
+  {
+    "id": 141,
+    "id2": 141,
+    "name": "Poison"
+  },
+  {
+    "id": 142,
+    "id2": 142,
+    "name": "Saibabeam"
+  },
+  {
+    "id": 143,
+    "id2": 143,
+    "name": "Acid"
+  },
+  {
+    "id": 144,
+    "id2": 144,
+    "name": "Saibabeam"
+  },
+  {
+    "id": 150,
+    "id2": 150,
+    "name": "Bomber DX"
+  },
+  {
+    "id": 151,
+    "id2": 151,
+    "name": "Genocide Shell"
+  },
+  {
+    "id": 152,
+    "id2": 152,
+    "name": "Arm Crash"
+  },
+  {
+    "id": 153,
+    "id2": 153,
+    "name": "Murder Grenade"
+  },
+  {
+    "id": 154,
+    "id2": 154,
+    "name": "Arm Crash"
+  },
+  {
+    "id": 155,
+    "id2": 155,
+    "name": "Arm Crash (Festival)"
+  },
+  {
+    "id": 160,
+    "id2": 160,
+    "name": "Galick Gun"
+  },
+  {
+    "id": 161,
+    "id2": 161,
+    "name": "Flash Strike"
+  },
+  {
+    "id": 162,
+    "id2": 162,
+    "name": "Finish Breaker"
+  },
+  {
+    "id": 163,
+    "id2": 163,
+    "name": "Shine Shot"
+  },
+  {
+    "id": 164,
+    "id2": 164,
+    "name": "Sledgehammer"
+  },
+  {
+    "id": 165,
+    "id2": 165,
+    "name": "Atomic Blast"
+  },
+  {
+    "id": 166,
+    "id2": 166,
+    "name": "Mighty Explosive Wave"
+  },
+  {
+    "id": 167,
+    "id2": 167,
+    "name": "Earth Splitting Galick Gun"
+  },
+  {
+    "id": 168,
+    "id2": 168,
+    "name": "Galaxy Breaker (Festival)"
+  },
+  {
+    "id": 180,
+    "id2": 180,
+    "name": "Time Control"
+  },
+  {
+    "id": 182,
+    "id2": 182,
+    "name": "Guldo Fighting Pose"
+  },
+  {
+    "id": 183,
+    "id2": 183,
+    "name": "Fighting Pose C"
+  },
+  {
+    "id": 184,
+    "id2": 184,
+    "name": "Fighting Pose H"
+  },
+  {
+    "id": 190,
+    "id2": 190,
+    "name": "Fighting Pose D"
+  },
+  {
+    "id": 191,
+    "id2": 191,
+    "name": "Fighting Pose I"
+  },
+  {
+    "id": 192,
+    "id2": 192,
+    "name": "Mach Punch"
+  },
+  {
+    "id": 193,
+    "id2": 193,
+    "name": "Mach Kick"
+  },
+  {
+    "id": 200,
+    "id2": 200,
+    "name": "Recoome Eraser Gun"
+  },
+  {
+    "id": 201,
+    "id2": 201,
+    "name": "Recoome Kick"
+  },
+  {
+    "id": 202,
+    "id2": 202,
+    "name": "Fighting Pose E"
+  },
+  {
+    "id": 203,
+    "id2": 203,
+    "name": "Fighting Pose J"
+  },
+  {
+    "id": 204,
+    "id2": 204,
+    "name": "Fighting Pose K"
+  },
+  {
+    "id": 210,
+    "id2": 210,
+    "name": "Crusher Ball"
+  },
+  {
+    "id": 211,
+    "id2": 211,
+    "name": "Sauzer Blade"
+  },
+  {
+    "id": 212,
+    "id2": 212,
+    "name": "Fighting Pose B"
+  },
+  {
+    "id": 213,
+    "id2": 213,
+    "name": "Fighting Pose G"
+  },
+  {
+    "id": 220,
+    "id2": 220,
+    "name": "Fighting Pose A"
+  },
+  {
+    "id": 221,
+    "id2": 221,
+    "name": "Holstein Shock"
+  },
+  {
+    "id": 222,
+    "id2": 222,
+    "name": "Milky Cannon"
+  },
+  {
+    "id": 223,
+    "id2": 223,
+    "name": "Fighting Pose F"
+  },
+  {
+    "id": 224,
+    "id2": 224,
+    "name": "Ginyu Force Special Combo"
+  },
+  {
+    "id": 225,
+    "id2": 225,
+    "name": "Holstein Shock"
+  },
+  {
+    "id": 226,
+    "id2": 226,
+    "name": "Milky Dance (Festival)"
+  },
+  {
+    "id": 230,
+    "id2": 230,
+    "name": "Emperor's Sign"
+  },
+  {
+    "id": 231,
+    "id2": 231,
+    "name": "Sonic Bomb"
+  },
+  {
+    "id": 232,
+    "id2": 232,
+    "name": "Sonic Bomb (Festival)"
+  },
+  {
+    "id": 240,
+    "id2": 240,
+    "name": "Death Beam"
+  },
+  {
+    "id": 241,
+    "id2": 241,
+    "name": "Death Psycho Bomb"
+  },
+  {
+    "id": 242,
+    "id2": 242,
+    "name": "Death Slash"
+  },
+  {
+    "id": 243,
+    "id2": 243,
+    "name": "Death Crasher"
+  },
+  {
+    "id": 244,
+    "id2": 244,
+    "name": "Death Slicer"
+  },
+  {
+    "id": 245,
+    "id2": 245,
+    "name": "Death Psycho Bomb"
+  },
+  {
+    "id": 246,
+    "id2": 246,
+    "name": "Death Wave"
+  },
+  {
+    "id": 247,
+    "id2": 247,
+    "name": "Crazy Finger Shot"
+  },
+  {
+    "id": 260,
+    "id2": 260,
+    "name": "Burning Attack"
+  },
+  {
+    "id": 261,
+    "id2": 261,
+    "name": "God Breaker"
+  },
+  {
+    "id": 262,
+    "id2": 262,
+    "name": "Change The Future"
+  },
+  {
+    "id": 264,
+    "id2": 264,
+    "name": "Shining Slash"
+  },
+  {
+    "id": 265,
+    "id2": 265,
+    "name": "Burning Slash"
+  },
+  {
+    "id": 266,
+    "id2": 266,
+    "name": "Shining Slash"
+  },
+  {
+    "id": 267,
+    "id2": 267,
+    "name": "Burning Slash"
+  },
+  {
+    "id": 270,
+    "id2": 270,
+    "name": "Finish Buster"
+  },
+  {
+    "id": 271,
+    "id2": 271,
+    "name": "Double Buster"
+  },
+  {
+    "id": 272,
+    "id2": 272,
+    "name": "Final Cannon"
+  },
+  {
+    "id": 280,
+    "id2": 280,
+    "name": "Side Bridge"
+  },
+  {
+    "id": 281,
+    "id2": 281,
+    "name": "Freedom Kick"
+  },
+  {
+    "id": 282,
+    "id2": 282,
+    "name": "Smile Charge"
+  },
+  {
+    "id": 283,
+    "id2": 283,
+    "name": "Smile Charge"
+  },
+  {
+    "id": 284,
+    "id2": 284,
+    "name": "Side Bridge (Festival)"
+  },
+  {
+    "id": 290,
+    "id2": 290,
+    "name": "Flash Bomber"
+  },
+  {
+    "id": 291,
+    "id2": 291,
+    "name": "Drain Field"
+  },
+  {
+    "id": 292,
+    "id2": 292,
+    "name": "Thunder Eraser"
+  },
+  {
+    "id": 293,
+    "id2": 293,
+    "name": "Drain Charge"
+  },
+  {
+    "id": 294,
+    "id2": 294,
+    "name": "Super Drain"
+  },
+  {
+    "id": 295,
+    "id2": 295,
+    "name": "Hyper Drain"
+  },
+  {
+    "id": 300,
+    "id2": 300,
+    "name": "Power Blitz"
+  },
+  {
+    "id": 301,
+    "id2": 301,
+    "name": "Endless Shoot"
+  },
+  {
+    "id": 302,
+    "id2": 302,
+    "name": "Deadly Dance"
+  },
+  {
+    "id": 303,
+    "id2": 303,
+    "name": "Deadly Dance (Festival)"
+  },
+  {
+    "id": 310,
+    "id2": 310,
+    "name": "All Clear"
+  },
+  {
+    "id": 311,
+    "id2": 311,
+    "name": "Gravity Impact"
+  },
+  {
+    "id": 312,
+    "id2": 312,
+    "name": "Perfect Shot"
+  },
+  {
+    "id": 313,
+    "id2": 313,
+    "name": "Perfect Attack (Festival)"
+  },
+  {
+    "id": 330,
+    "id2": 330,
+    "name": "Taunt"
+  },
+  {
+    "id": 340,
+    "id2": 340,
+    "name": "Justice Rush"
+  },
+  {
+    "id": 341,
+    "id2": 341,
+    "name": "Eagle Kick"
+  },
+  {
+    "id": 342,
+    "id2": 342,
+    "name": "Hawk Charge"
+  },
+  {
+    "id": 350,
+    "id2": 350,
+    "name": "Innocence Bullet"
+  },
+  {
+    "id": 351,
+    "id2": 351,
+    "name": "Innocence Cannon"
+  },
+  {
+    "id": 352,
+    "id2": 352,
+    "name": "Angry Hit"
+  },
+  {
+    "id": 353,
+    "id2": 353,
+    "name": "Zigzag Express"
+  },
+  {
+    "id": 354,
+    "id2": 354,
+    "name": "Explosive Buu Buu Punch"
+  },
+  {
+    "id": 355,
+    "id2": 355,
+    "name": "Go-Go Gum"
+  },
+  {
+    "id": 356,
+    "id2": 356,
+    "name": "Innocence Bullet (Festival)"
+  },
+  {
+    "id": 360,
+    "id2": 360,
+    "name": "Ill Flash"
+  },
+  {
+    "id": 361,
+    "id2": 361,
+    "name": "Ill Bomber"
+  },
+  {
+    "id": 362,
+    "id2": 362,
+    "name": "Ill Rain"
+  },
+  {
+    "id": 370,
+    "id2": 370,
+    "name": "Majin Kamehameha"
+  },
+  {
+    "id": 371,
+    "id2": 371,
+    "name": "Vanishing Ball"
+  },
+  {
+    "id": 372,
+    "id2": 372,
+    "name": "Quick Sleep"
+  },
+  {
+    "id": 373,
+    "id2": 373,
+    "name": "Pearl Flash"
+  },
+  {
+    "id": 380,
+    "id2": 380,
+    "name": "DIE DIE Missile Barrage"
+  },
+  {
+    "id": 381,
+    "id2": 381,
+    "name": "Galactic Donuts"
+  },
+  {
+    "id": 382,
+    "id2": 382,
+    "name": "Super Ghost Kamikaze Attack"
+  },
+  {
+    "id": 383,
+    "id2": 383,
+    "name": "Super Donut Volley"
+  },
+  {
+    "id": 384,
+    "id2": 384,
+    "name": "Victory Cannon (Festival)"
+  },
+  {
+    "id": 390,
+    "id2": 390,
+    "name": "Big Bang Attack"
+  },
+  {
+    "id": 391,
+    "id2": 391,
+    "name": "Pressure Sign"
+  },
+  {
+    "id": 392,
+    "id2": 392,
+    "name": "Split Finger Shot"
+  },
+  {
+    "id": 400,
+    "id2": 400,
+    "name": "Blaster Shell"
+  },
+  {
+    "id": 401,
+    "id2": 401,
+    "name": "Gigantic Omega"
+  },
+  {
+    "id": 402,
+    "id2": 402,
+    "name": "Gigantic Slam"
+  },
+  {
+    "id": 403,
+    "id2": 403,
+    "name": "Gigantic Slam"
+  },
+  {
+    "id": 404,
+    "id2": 404,
+    "name": "Gigantic Omega (Festival)"
+  },
+  {
+    "id": 410,
+    "id2": 410,
+    "name": "God of Destruction's Anger"
+  },
+  {
+    "id": 411,
+    "id2": 411,
+    "name": "God of Destruction's Rampage"
+  },
+  {
+    "id": 412,
+    "id2": 412,
+    "name": "God of Destruction's Wrath"
+  },
+  {
+    "id": 420,
+    "id2": 420,
+    "name": "Feint Shot"
+  },
+  {
+    "id": 421,
+    "id2": 421,
+    "name": "Prepare to be Punished"
+  },
+  {
+    "id": 422,
+    "id2": 422,
+    "name": "Dancing Parapara"
+  },
+  {
+    "id": 423,
+    "id2": 423,
+    "name": "Feint Shot (Festival)"
+  },
+  {
+    "id": 440,
+    "id2": 440,
+    "name": "Great Ape Beam"
+  },
+  {
+    "id": 441,
+    "id2": 441,
+    "name": "Boulder Toss"
+  },
+  {
+    "id": 442,
+    "id2": 442,
+    "name": "Boulder Break"
+  },
+  {
+    "id": 443,
+    "id2": 443,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 444,
+    "id2": 444,
+    "name": "Peeler Storm"
+  },
+  {
+    "id": 460,
+    "id2": 460,
+    "name": "Unknown (460)"
+  },
+  {
+    "id": 480,
+    "id2": 480,
+    "name": "Freezing Beam"
+  },
+  {
+    "id": 481,
+    "id2": 481,
+    "name": "Freezing Beam"
+  },
+  {
+    "id": 482,
+    "id2": 482,
+    "name": "Ice Claw"
+  },
+  {
+    "id": 483,
+    "id2": 483,
+    "name": "Ice Claw"
+  },
+  {
+    "id": 484,
+    "id2": 484,
+    "name": "Ice Field"
+  },
+  {
+    "id": 485,
+    "id2": 485,
+    "name": "Ice Field"
+  },
+  {
+    "id": 490,
+    "id2": 490,
+    "name": "Burst Attack"
+  },
+  {
+    "id": 491,
+    "id2": 491,
+    "name": "Burst Attack"
+  },
+  {
+    "id": 492,
+    "id2": 492,
+    "name": "Burst Reflection"
+  },
+  {
+    "id": 493,
+    "id2": 493,
+    "name": "Burst Reflection"
+  },
+  {
+    "id": 494,
+    "id2": 494,
+    "name": "Fighting Sun"
+  },
+  {
+    "id": 495,
+    "id2": 495,
+    "name": "Fighting Sun"
+  },
+  {
+    "id": 500,
+    "id2": 500,
+    "name": "Dragon Flash Bullet"
+  },
+  {
+    "id": 501,
+    "id2": 501,
+    "name": "Whirlwind Blade"
+  },
+  {
+    "id": 502,
+    "id2": 502,
+    "name": "Dragon Thunder"
+  },
+  {
+    "id": 510,
+    "id2": 510,
+    "name": "Big Bang Kamehameha"
+  },
+  {
+    "id": 511,
+    "id2": 511,
+    "name": "Bluff Kamehameha"
+  },
+  {
+    "id": 520,
+    "id2": 520,
+    "name": "Dynamite Kick"
+  },
+  {
+    "id": 521,
+    "id2": 521,
+    "name": "Rolling Hercule Punch"
+  },
+  {
+    "id": 522,
+    "id2": 522,
+    "name": "Present For You"
+  },
+  {
+    "id": 523,
+    "id2": 523,
+    "name": "Present For You (Festival)"
+  },
+  {
+    "id": 530,
+    "id2": 530,
+    "name": "Time Shackles"
+  },
+  {
+    "id": 531,
+    "id2": 531,
+    "name": "Seasoning Arrow"
+  },
+  {
+    "id": 532,
+    "id2": 532,
+    "name": "Darkness Mixer"
+  },
+  {
+    "id": 533,
+    "id2": 533,
+    "name": "Bloody Sauce"
+  },
+  {
+    "id": 534,
+    "id2": 534,
+    "name": "Rage Saucer"
+  },
+  {
+    "id": 535,
+    "id2": 535,
+    "name": "Time Shackles"
+  },
+  {
+    "id": 536,
+    "id2": 536,
+    "name": "Seasoning Arrow"
+  },
+  {
+    "id": 537,
+    "id2": 537,
+    "name": "Rage Saucer"
+  },
+  {
+    "id": 538,
+    "id2": 538,
+    "name": "Darkness Mixer"
+  },
+  {
+    "id": 539,
+    "id2": 539,
+    "name": "Bloody Sauce"
+  },
+  {
+    "id": 540,
+    "id2": 540,
+    "name": "Energy Cannon"
+  },
+  {
+    "id": 541,
+    "id2": 541,
+    "name": "Boiling Ball"
+  },
+  {
+    "id": 542,
+    "id2": 542,
+    "name": "Tricky Strike"
+  },
+  {
+    "id": 543,
+    "id2": 543,
+    "name": "Marbling Drop"
+  },
+  {
+    "id": 544,
+    "id2": 544,
+    "name": "Peeler Storm"
+  },
+  {
+    "id": 545,
+    "id2": 545,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 590,
+    "id2": 590,
+    "name": "Energy Shot"
+  },
+  {
+    "id": 591,
+    "id2": 591,
+    "name": "Energy Charge"
+  },
+  {
+    "id": 592,
+    "id2": 592,
+    "name": "Full Power Charge"
+  },
+  {
+    "id": 593,
+    "id2": 593,
+    "name": "Maximum Charge"
+  },
+  {
+    "id": 594,
+    "id2": 594,
+    "name": "Meteor Blow"
+  },
+  {
+    "id": 595,
+    "id2": 595,
+    "name": "Meteor Strike"
+  },
+  {
+    "id": 596,
+    "id2": 596,
+    "name": "Meteor Crash"
+  },
+  {
+    "id": 597,
+    "id2": 597,
+    "name": "Energy Wave Combo"
+  },
+  {
+    "id": 598,
+    "id2": 598,
+    "name": "Ultimate Charge"
+  },
+  {
+    "id": 599,
+    "id2": 599,
+    "name": "Burst Charge"
+  },
+  {
+    "id": 600,
+    "id2": 600,
+    "name": "Beam Rifle"
+  },
+  {
+    "id": 620,
+    "id2": 620,
+    "name": "Galick Beam Cannon"
+  },
+  {
+    "id": 621,
+    "id2": 621,
+    "name": "Infinity Explosion"
+  },
+  {
+    "id": 622,
+    "id2": 622,
+    "name": "Android Kick"
+  },
+  {
+    "id": 623,
+    "id2": 623,
+    "name": "Phantom Fist"
+  },
+  {
+    "id": 630,
+    "id2": 630,
+    "name": "Position Shift"
+  },
+  {
+    "id": 631,
+    "id2": 631,
+    "name": "Time Bullet"
+  },
+  {
+    "id": 632,
+    "id2": 632,
+    "name": "Energy Release"
+  },
+  {
+    "id": 633,
+    "id2": 633,
+    "name": "Position Shift"
+  },
+  {
+    "id": 634,
+    "id2": 634,
+    "name": "Time Bullet"
+  },
+  {
+    "id": 635,
+    "id2": 635,
+    "name": "Position Shift"
+  },
+  {
+    "id": 636,
+    "id2": 636,
+    "name": "Time Bullet"
+  },
+  {
+    "id": 637,
+    "id2": 637,
+    "name": "Energy Release"
+  },
+  {
+    "id": 650,
+    "id2": 650,
+    "name": "Prelude to Destruction"
+  },
+  {
+    "id": 651,
+    "id2": 651,
+    "name": "Strike of Revelation"
+  },
+  {
+    "id": 652,
+    "id2": 652,
+    "name": "Kai Kai"
+  },
+  {
+    "id": 653,
+    "id2": 653,
+    "name": "Finishing Blow"
+  },
+  {
+    "id": 670,
+    "id2": 670,
+    "name": "Elite Beam"
+  },
+  {
+    "id": 671,
+    "id2": 671,
+    "name": "Elite Shooting"
+  },
+  {
+    "id": 672,
+    "id2": 672,
+    "name": "Hero's Pose"
+  },
+  {
+    "id": 673,
+    "id2": 673,
+    "name": "Elite Beam"
+  },
+  {
+    "id": 674,
+    "id2": 674,
+    "name": "Elite Shooting"
+  },
+  {
+    "id": 675,
+    "id2": 675,
+    "name": "Hero's Pose"
+  },
+  {
+    "id": 730,
+    "id2": 730,
+    "name": "Dynamite Kick"
+  },
+  {
+    "id": 731,
+    "id2": 731,
+    "name": "Rolling Hercule Punch"
+  },
+  {
+    "id": 750,
+    "id2": 750,
+    "name": "Life Absorption"
+  },
+  {
+    "id": 751,
+    "id2": 751,
+    "name": "Kamehameha"
+  },
+  {
+    "id": 800,
+    "id2": 800,
+    "name": "Super God Shock Flash"
+  },
+  {
+    "id": 801,
+    "id2": 801,
+    "name": "Burst Kamehameha"
+  },
+  {
+    "id": 810,
+    "id2": 810,
+    "name": "Final Blow"
+  },
+  {
+    "id": 811,
+    "id2": 811,
+    "name": "Counter Burst"
+  },
+  {
+    "id": 812,
+    "id2": 812,
+    "name": "Focus Flash"
+  },
+  {
+    "id": 813,
+    "id2": 813,
+    "name": "Wild Hunt"
+  },
+  {
+    "id": 814,
+    "id2": 814,
+    "name": "Tail Slicer"
+  },
+  {
+    "id": 820,
+    "id2": 820,
+    "name": "Emperor's Edge"
+  },
+  {
+    "id": 821,
+    "id2": 821,
+    "name": "Emperor's Blast"
+  },
+  {
+    "id": 830,
+    "id2": 830,
+    "name": "Rocket Punch"
+  },
+  {
+    "id": 831,
+    "id2": 831,
+    "name": "Rocket Tackle"
+  },
+  {
+    "id": 832,
+    "id2": 832,
+    "name": "Eye Beam"
+  },
+  {
+    "id": 833,
+    "id2": 833,
+    "name": "Android Rush"
+  },
+  {
+    "id": 834,
+    "id2": 834,
+    "name": "Android Rush"
+  },
+  {
+    "id": 835,
+    "id2": 835,
+    "name": "Rocket Tackle (Festival)"
+  },
+  {
+    "id": 840,
+    "id2": 840,
+    "name": "Feint Crash"
+  },
+  {
+    "id": 841,
+    "id2": 841,
+    "name": "Destructive Ray"
+  },
+  {
+    "id": 850,
+    "id2": 850,
+    "name": "Shadow Crusher"
+  },
+  {
+    "id": 851,
+    "id2": 851,
+    "name": "Death Chaser (Festival)"
+  },
+  {
+    "id": 860,
+    "id2": 860,
+    "name": "Sonic Rush"
+  },
+  {
+    "id": 861,
+    "id2": 861,
+    "name": "Super Explosive Wave"
+  },
+  {
+    "id": 862,
+    "id2": 862,
+    "name": "Senko Ki Blast"
+  },
+  {
+    "id": 870,
+    "id2": 870,
+    "name": "Kill Driver"
+  },
+  {
+    "id": 871,
+    "id2": 871,
+    "name": "Fruit of the Tree of Might"
+  },
+  {
+    "id": 872,
+    "id2": 872,
+    "name": "Sudden Storm"
+  },
+  {
+    "id": 880,
+    "id2": 880,
+    "name": "Rakshasa's Claw"
+  },
+  {
+    "id": 881,
+    "id2": 881,
+    "name": "Dimensional Hole"
+  },
+  {
+    "id": 882,
+    "id2": 882,
+    "name": "Rakshasa's Claw"
+  },
+  {
+    "id": 1100,
+    "id2": 1100,
+    "name": "Flash Chaser"
+  },
+  {
+    "id": 1101,
+    "id2": 1101,
+    "name": "Dragon Blitz"
+  },
+  {
+    "id": 1102,
+    "id2": 1102,
+    "name": "Super Dragon Fist"
+  },
+  {
+    "id": 1103,
+    "id2": 1103,
+    "name": "Super God Fist"
+  },
+  {
+    "id": 1104,
+    "id2": 1104,
+    "name": "Angry Hit"
+  },
+  {
+    "id": 1105,
+    "id2": 1105,
+    "name": "Energy Charge"
+  },
+  {
+    "id": 1110,
+    "id2": 1110,
+    "name": "Total Detonation Ball"
+  },
+  {
+    "id": 1111,
+    "id2": 1111,
+    "name": "Savory Slicer"
+  },
+  {
+    "id": 1112,
+    "id2": 1112,
+    "name": "Photon Swipe"
+  },
+  {
+    "id": 1113,
+    "id2": 1113,
+    "name": "Majin Kamehameha"
+  },
+  {
+    "id": 1114,
+    "id2": 1114,
+    "name": "Unknown (1114)"
+  },
+  {
+    "id": 1120,
+    "id2": 1120,
+    "name": "Kairos Cannon"
+  },
+  {
+    "id": 1121,
+    "id2": 1121,
+    "name": "Temporal Holy Ray"
+  },
+  {
+    "id": 1122,
+    "id2": 1122,
+    "name": "Holy Inscription"
+  },
+  {
+    "id": 1123,
+    "id2": 1123,
+    "name": "Maximum Charge"
+  },
+  {
+    "id": 1124,
+    "id2": 1124,
+    "name": "Unknown (1124)"
+  },
+  {
+    "id": 1125,
+    "id2": 1125,
+    "name": "Unknown (1125)"
+  },
+  {
+    "id": 1126,
+    "id2": 1126,
+    "name": "Unknown (1126)"
+  },
+  {
+    "id": 1127,
+    "id2": 1127,
+    "name": "Unknown (1127)"
+  },
+  {
+    "id": 1130,
+    "id2": 1130,
+    "name": "Burning Shot"
+  },
+  {
+    "id": 1131,
+    "id2": 1131,
+    "name": "Hyper Tornado"
+  },
+  {
+    "id": 1140,
+    "id2": 1140,
+    "name": "Destructive Flare"
+  },
+  {
+    "id": 1141,
+    "id2": 1141,
+    "name": "Destructive Fracture"
+  },
+  {
+    "id": 1142,
+    "id2": 1142,
+    "name": "Destructive Fracture"
+  },
+  {
+    "id": 1151,
+    "id2": 1151,
+    "name": "Impact Flare"
+  },
+  {
+    "id": 1152,
+    "id2": 1152,
+    "name": "Full Power Energy Wave"
+  },
+  {
+    "id": 1153,
+    "id2": 1153,
+    "name": "Infinity Rush (Festival)"
+  },
+  {
+    "id": 1160,
+    "id2": 1160,
+    "name": "Comet Strike"
+  },
+  {
+    "id": 1161,
+    "id2": 1161,
+    "name": "Spinning Comet (Festival)"
+  },
+  {
+    "id": 1170,
+    "id2": 1170,
+    "name": "Crush Cannon"
+  },
+  {
+    "id": 1171,
+    "id2": 1171,
+    "name": "Double Crush"
+  },
+  {
+    "id": 1180,
+    "id2": 1180,
+    "name": "Blaster Cannon"
+  },
+  {
+    "id": 1181,
+    "id2": 1181,
+    "name": "Blaster Bomb"
+  },
+  {
+    "id": 1200,
+    "id2": 1200,
+    "name": "Punisher Drive"
+  },
+  {
+    "id": 1201,
+    "id2": 1201,
+    "name": "Super Mad Dance"
+  },
+  {
+    "id": 1202,
+    "id2": 1202,
+    "name": "Punisher Drive"
+  },
+  {
+    "id": 1210,
+    "id2": 1210,
+    "name": "Darkness Twin Star"
+  },
+  {
+    "id": 1211,
+    "id2": 1211,
+    "name": "Darkness Eye Beam"
+  },
+  {
+    "id": 1212,
+    "id2": 1212,
+    "name": "Namek Finger"
+  },
+  {
+    "id": 1213,
+    "id2": 1213,
+    "name": "Mouth Cannon: short-range"
+  },
+  {
+    "id": 1214,
+    "id2": 1214,
+    "name": "Mouth Cannon: mid-range"
+  },
+  {
+    "id": 1215,
+    "id2": 1215,
+    "name": "Mouth Cannon: long-range"
+  },
+  {
+    "id": 1216,
+    "id2": 1216,
+    "name": "Evil Roar"
+  },
+  {
+    "id": 1220,
+    "id2": 1220,
+    "name": "Gorgeous Shot"
+  },
+  {
+    "id": 1221,
+    "id2": 1221,
+    "name": "Audacious Laugh"
+  },
+  {
+    "id": 1230,
+    "id2": 1230,
+    "name": "Dodoria Headbutt"
+  },
+  {
+    "id": 1231,
+    "id2": 1231,
+    "name": "Dodoria Beam"
+  },
+  {
+    "id": 1232,
+    "id2": 1232,
+    "name": "Critical Upper"
+  },
+  {
+    "id": 1233,
+    "id2": 1233,
+    "name": "Giga Boost"
+  },
+  {
+    "id": 1240,
+    "id2": 1240,
+    "name": "Do or Die"
+  },
+  {
+    "id": 1250,
+    "id2": 1250,
+    "name": "Peeler Storm"
+  },
+  {
+    "id": 1251,
+    "id2": 1251,
+    "name": "Marbling Drop"
+  },
+  {
+    "id": 1252,
+    "id2": 1252,
+    "name": "Instant Charge"
+  },
+  {
+    "id": 1253,
+    "id2": 1253,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 1254,
+    "id2": 1254,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 1255,
+    "id2": 1255,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 1256,
+    "id2": 1256,
+    "name": "Brainwash Attack"
+  },
+  {
+    "id": 1257,
+    "id2": 1257,
+    "name": "Marbling Drop"
+  },
+  {
+    "id": 1258,
+    "id2": 1258,
+    "name": "Marbling Drop"
+  },
+  {
+    "id": 1259,
+    "id2": 1259,
+    "name": "Marbling Drop"
+  },
+  {
+    "id": 1260,
+    "id2": 1260,
+    "name": "Flash Fist Crush"
+  },
+  {
+    "id": 1261,
+    "id2": 1261,
+    "name": "Flash Fist Crush (Festival)"
+  },
+  {
+    "id": 1310,
+    "id2": 1310,
+    "name": "Aura Slide"
+  },
+  {
+    "id": 1320,
+    "id2": 1320,
+    "name": "Dual Masenko"
+  },
+  {
+    "id": 1330,
+    "id2": 1330,
+    "name": "Chaos Shot"
+  },
+  {
+    "id": 1340,
+    "id2": 1340,
+    "name": "Galick Cannon"
+  },
+  {
+    "id": 1341,
+    "id2": 1341,
+    "name": "Galick Rush (Festival)"
+  },
+  {
+    "id": 1350,
+    "id2": 1350,
+    "name": "Time Skip/Flash Skewer"
+  },
+  {
+    "id": 1351,
+    "id2": 1351,
+    "name": "Time Skip/Back Breaker"
+  },
+  {
+    "id": 1352,
+    "id2": 1352,
+    "name": "Time Skip/Jump Spike"
+  },
+  {
+    "id": 1360,
+    "id2": 1360,
+    "name": "Destruction's Concerto: Comet"
+  },
+  {
+    "id": 1361,
+    "id2": 1361,
+    "name": "Destruction's Concerto: Starfall"
+  },
+  {
+    "id": 1362,
+    "id2": 1362,
+    "name": "Destruction's Concerto: Meteor"
+  },
+  {
+    "id": 1363,
+    "id2": 1363,
+    "name": "Destruction's Conductor"
+  },
+  {
+    "id": 1370,
+    "id2": 1370,
+    "name": "God of Destruction's Roar"
+  },
+  {
+    "id": 1380,
+    "id2": 1380,
+    "name": "God Splitter"
+  },
+  {
+    "id": 1381,
+    "id2": 1381,
+    "name": "Heavenly Arrow"
+  },
+  {
+    "id": 1391,
+    "id2": 1391,
+    "name": "Divine Retribution"
+  },
+  {
+    "id": 1392,
+    "id2": 1392,
+    "name": "Sudden Death Beam"
+  },
+  {
+    "id": 1393,
+    "id2": 1393,
+    "name": "Divine Retribution (Festival)"
+  },
+  {
+    "id": 1400,
+    "id2": 1400,
+    "name": "Reverse Launcher"
+  },
+  {
+    "id": 1401,
+    "id2": 1401,
+    "name": "Trap Shooter"
+  },
+  {
+    "id": 1402,
+    "id2": 1402,
+    "name": "Psycho Barrier"
+  },
+  {
+    "id": 1410,
+    "id2": 1410,
+    "name": "Spirit Stab"
+  },
+  {
+    "id": 1411,
+    "id2": 1411,
+    "name": "Savage Strike"
+  },
+  {
+    "id": 1420,
+    "id2": 1420,
+    "name": "Blades of Judgment"
+  },
+  {
+    "id": 1421,
+    "id2": 1421,
+    "name": "Holy Wrath"
+  },
+  {
+    "id": 1422,
+    "id2": 1422,
+    "name": "Lightning of Absolution"
+  },
+  {
+    "id": 1423,
+    "id2": 1423,
+    "name": "Divinity Unleashed"
+  },
+  {
+    "id": 1430,
+    "id2": 1430,
+    "name": "Celestial Hammer"
+  },
+  {
+    "id": 1431,
+    "id2": 1431,
+    "name": "Light of Justice"
+  },
+  {
+    "id": 1432,
+    "id2": 1432,
+    "name": "Flames of Retribution"
+  },
+  {
+    "id": 1433,
+    "id2": 1433,
+    "name": "Spiral of Condemnation"
+  },
+  {
+    "id": 1440,
+    "id2": 1440,
+    "name": "Super Ghost Buu Attack"
+  },
+  {
+    "id": 1441,
+    "id2": 1441,
+    "name": "Candy Beam"
+  },
+  {
+    "id": 1450,
+    "id2": 1450,
+    "name": "Petrifying Spit"
+  },
+  {
+    "id": 1451,
+    "id2": 1451,
+    "name": "Evil Flame"
+  },
+  {
+    "id": 1452,
+    "id2": 1452,
+    "name": "Hellblade Rush (Festival)"
+  },
+  {
+    "id": 1460,
+    "id2": 1460,
+    "name": "Data Input"
+  },
+  {
+    "id": 1461,
+    "id2": 1461,
+    "name": "Handy Canon"
+  },
+  {
+    "id": 1470,
+    "id2": 1470,
+    "name": "Hero's Flute"
+  },
+  {
+    "id": 1471,
+    "id2": 1471,
+    "name": "Brave Sword Slash"
+  },
+  {
+    "id": 1480,
+    "id2": 1480,
+    "name": "Rough Ranger"
+  },
+  {
+    "id": 1490,
+    "id2": 1490,
+    "name": "Power Impact"
+  },
+  {
+    "id": 1491,
+    "id2": 1491,
+    "name": "Meditation"
+  },
+  {
+    "id": 1492,
+    "id2": 1492,
+    "name": "Power Impact"
+  },
+  {
+    "id": 1500,
+    "id2": 1500,
+    "name": "Confusion Blade"
+  },
+  {
+    "id": 1501,
+    "id2": 1501,
+    "name": "Sneaky Strike"
+  },
+  {
+    "id": 1502,
+    "id2": 1502,
+    "name": "Energy Minefield"
+  },
+  {
+    "id": 1503,
+    "id2": 1503,
+    "name": "Sneaky Strike"
+  },
+  {
+    "id": 1510,
+    "id2": 1510,
+    "name": "Soaring Fist"
+  },
+  {
+    "id": 1511,
+    "id2": 1511,
+    "name": "Surging Spirit"
+  },
+  {
+    "id": 1512,
+    "id2": 1512,
+    "name": "Kamehameha"
+  },
+  {
+    "id": 1513,
+    "id2": 1513,
+    "name": "Meteor Crash"
+  },
+  {
+    "id": 1514,
+    "id2": 1514,
+    "name": "Divine Kamehameha"
+  },
+  {
+    "id": 1520,
+    "id2": 1520,
+    "name": "Blaster Ball"
+  },
+  {
+    "id": 1521,
+    "id2": 1521,
+    "name": "Gigantic Breaker"
+  },
+  {
+    "id": 1522,
+    "id2": 1522,
+    "name": "Ray Blast"
+  },
+  {
+    "id": 1523,
+    "id2": 1523,
+    "name": "Blaster Ball (Festival)"
+  },
+  {
+    "id": 1530,
+    "id2": 1530,
+    "name": "Reverse Shot"
+  },
+  {
+    "id": 1531,
+    "id2": 1531,
+    "name": "Variant Drive"
+  },
+  {
+    "id": 1532,
+    "id2": 1532,
+    "name": "Revenge Final Flash"
+  },
+  {
+    "id": 1540,
+    "id2": 1540,
+    "name": "Spirit Blaster"
+  },
+  {
+    "id": 1541,
+    "id2": 1541,
+    "name": "Punisher Shield"
+  },
+  {
+    "id": 1542,
+    "id2": 1542,
+    "name": "Assault Vanish"
+  },
+  {
+    "id": 1543,
+    "id2": 1543,
+    "name": "Super Mad Dance"
+  },
+  {
+    "id": 1544,
+    "id2": 1544,
+    "name": "Big Bang Kamehameha"
+  },
+  {
+    "id": 1550,
+    "id2": 1550,
+    "name": "Powered Shell"
+  },
+  {
+    "id": 1551,
+    "id2": 1551,
+    "name": "Gigantic Charge"
+  },
+  {
+    "id": 1552,
+    "id2": 1552,
+    "name": "Gigantic Rage"
+  },
+  {
+    "id": 1553,
+    "id2": 1553,
+    "name": "Gigantic Rage"
+  },
+  {
+    "id": 1554,
+    "id2": 1554,
+    "name": "Gigantic Rage"
+  },
+  {
+    "id": 1555,
+    "id2": 1555,
+    "name": "Gigantic Charge"
+  },
+  {
+    "id": 1560,
+    "id2": 1560,
+    "name": "Pretty Cannon"
+  },
+  {
+    "id": 1562,
+    "id2": 1562,
+    "name": "Formation!"
+  },
+  {
+    "id": 1563,
+    "id2": 1563,
+    "name": "Lovely Cyclone"
+  },
+  {
+    "id": 1564,
+    "id2": 1564,
+    "name": "Pretty Charge"
+  },
+  {
+    "id": 1565,
+    "id2": 1565,
+    "name": "Attention, Please! (Festival)"
+  },
+  {
+    "id": 1570,
+    "id2": 1570,
+    "name": "Final Flash"
+  },
+  {
+    "id": 1571,
+    "id2": 1571,
+    "name": "Final Blow"
+  },
+  {
+    "id": 1572,
+    "id2": 1572,
+    "name": "Atomic Blast"
+  },
+  {
+    "id": 1573,
+    "id2": 1573,
+    "name": "Final Charge"
+  },
+  {
+    "id": 1580,
+    "id2": 1580,
+    "name": "Blazing Attack"
+  },
+  {
+    "id": 1581,
+    "id2": 1581,
+    "name": "Burst Stinger"
+  },
+  {
+    "id": 1582,
+    "id2": 1582,
+    "name": "Raid Blast"
+  },
+  {
+    "id": 1583,
+    "id2": 1583,
+    "name": "Blazing Attack"
+  },
+  {
+    "id": 1584,
+    "id2": 1584,
+    "name": "Burst Stinger"
+  },
+  {
+    "id": 1585,
+    "id2": 1585,
+    "name": "Raid Blast"
+  },
+  {
+    "id": 2010,
+    "id2": 2010,
+    "name": "Ultrasonic Blitz"
+  },
+  {
+    "id": 2011,
+    "id2": 2011,
+    "name": "Spirit Pulse"
+  },
+  {
+    "id": 2012,
+    "id2": 2012,
+    "name": "Blinding Blitz (Festival)"
+  },
+  {
+    "id": 2020,
+    "id2": 2020,
+    "name": "Justice Kick"
+  },
+  {
+    "id": 2021,
+    "id2": 2021,
+    "name": "Justice Blade"
+  },
+  {
+    "id": 2022,
+    "id2": 2022,
+    "name": "Justice Crush (Festival)"
+  },
+  {
+    "id": 2030,
+    "id2": 2030,
+    "name": "Wild Buster"
+  },
+  {
+    "id": 2031,
+    "id2": 2031,
+    "name": "Counter Impact"
+  },
+  {
+    "id": 2032,
+    "id2": 2032,
+    "name": "Shield Barrier"
+  },
+  {
+    "id": 2033,
+    "id2": 2033,
+    "name": "Unknown (2033)"
+  },
+  {
+    "id": 2060,
+    "id2": 2060,
+    "name": "Heroic Assault"
+  },
+  {
+    "id": 2061,
+    "id2": 2061,
+    "name": "Shooting Strike"
+  },
+  {
+    "id": 2062,
+    "id2": 2062,
+    "name": "Gamma Force: Code-R (Festival)"
+  },
+  {
+    "id": 2070,
+    "id2": 2070,
+    "name": "Heroic Counter"
+  },
+  {
+    "id": 2071,
+    "id2": 2071,
+    "name": "Gamma Blaster"
+  },
+  {
+    "id": 2072,
+    "id2": 2072,
+    "name": "Gamma Impact"
+  },
+  {
+    "id": 2073,
+    "id2": 2073,
+    "name": "Unknown (2073)"
+  },
+  {
+    "id": 2074,
+    "id2": 2074,
+    "name": "Gamma Force: Code-B (Festival)"
+  },
+  {
+    "id": 2080,
+    "id2": 2080,
+    "name": "Masenko"
+  },
+  {
+    "id": 2081,
+    "id2": 2081,
+    "name": "Hawk Charge"
+  },
+  {
+    "id": 2082,
+    "id2": 2082,
+    "name": "Burst Rush"
+  },
+  {
+    "id": 2083,
+    "id2": 2083,
+    "name": "Hawk Charge"
+  },
+  {
+    "id": 2090,
+    "id2": 2090,
+    "name": "Demon Ray"
+  },
+  {
+    "id": 2091,
+    "id2": 2091,
+    "name": "Demon Flash Strike"
+  },
+  {
+    "id": 2092,
+    "id2": 2092,
+    "name": "Demon Flurry"
+  },
+  {
+    "id": 2093,
+    "id2": 2093,
+    "name": "Ultimate Charge"
+  },
+  {
+    "id": 2094,
+    "id2": 2094,
+    "name": "Speed Drill (Festival)"
+  },
+  {
+    "id": 2100,
+    "id2": 2100,
+    "name": "Special Beam Cannon"
+  },
+  {
+    "id": 2101,
+    "id2": 2101,
+    "name": "Evil Eyes"
+  },
+  {
+    "id": 2110,
+    "id2": 2110,
+    "name": "Fierce Fist"
+  },
+  {
+    "id": 2111,
+    "id2": 2111,
+    "name": "Demonic Destruction"
+  },
+  {
+    "id": 2120,
+    "id2": 2120,
+    "name": "Disaster Ray"
+  },
+  {
+    "id": 2121,
+    "id2": 2121,
+    "name": "Purge Cannon"
+  },
+  {
+    "id": 2130,
+    "id2": 2130,
+    "name": "Variable Snipe Shot"
+  },
+  {
+    "id": 2131,
+    "id2": 2131,
+    "name": "Steel Mirage"
+  },
+  {
+    "id": 2140,
+    "id2": 2140,
+    "name": "Seagull Combination"
+  },
+  {
+    "id": 2141,
+    "id2": 2141,
+    "name": "Burning Swan"
+  },
+  {
+    "id": 2142,
+    "id2": 2142,
+    "name": "Swallow Shot"
+  },
+  {
+    "id": 2143,
+    "id2": 2143,
+    "name": "Egret Waltz (Festival)"
+  },
+  {
+    "id": 2160,
+    "id2": 2160,
+    "name": "Gigantic Cluster"
+  },
+  {
+    "id": 2161,
+    "id2": 2161,
+    "name": "Eraser Bomb"
+  },
+  {
+    "id": 2162,
+    "id2": 2162,
+    "name": "Rising Rage"
+  },
+  {
+    "id": 2163,
+    "id2": 2163,
+    "name": "Gigantic Cluster"
+  },
+  {
+    "id": 2164,
+    "id2": 2164,
+    "name": "Eraser Bomb"
+  },
+  {
+    "id": 2165,
+    "id2": 2165,
+    "name": "Gigantic Cluster"
+  },
+  {
+    "id": 2166,
+    "id2": 2166,
+    "name": "Eraser Bomb"
+  },
+  {
+    "id": 2167,
+    "id2": 2167,
+    "name": "Rising Rage"
+  },
+  {
+    "id": 2170,
+    "id2": 2170,
+    "name": "Big Bang Knuckle"
+  },
+  {
+    "id": 2171,
+    "id2": 2171,
+    "name": "Wild Stinger"
+  },
+  {
+    "id": 2172,
+    "id2": 2172,
+    "name": "Big Bang Knuckle"
+  },
+  {
+    "id": 2173,
+    "id2": 2173,
+    "name": "Wild Stinger"
+  },
+  {
+    "id": 2180,
+    "id2": 2180,
+    "name": "Crimson Edge"
+  },
+  {
+    "id": 2181,
+    "id2": 2181,
+    "name": "Divine Spear"
+  },
+  {
+    "id": 2182,
+    "id2": 2182,
+    "name": "Crimson Edge"
+  },
+  {
+    "id": 2183,
+    "id2": 2183,
+    "name": "Divine Spear"
+  },
+  {
+    "id": 2210,
+    "id2": 2210,
+    "name": "God of Destruction's Plaything"
+  },
+  {
+    "id": 2211,
+    "id2": 2211,
+    "name": "God of Destruction's Poise"
+  },
+  {
+    "id": 2230,
+    "id2": 2230,
+    "name": "Dragon Spark"
+  },
+  {
+    "id": 2231,
+    "id2": 2231,
+    "name": "Soaring Rush"
+  },
+  {
+    "id": 2240,
+    "id2": 2240,
+    "name": "Heat Wave"
+  },
+  {
+    "id": 2241,
+    "id2": 2241,
+    "name": "Supreme Fury"
+  },
+  {
+    "id": 2250,
+    "id2": 2250,
+    "name": "Force Edge"
+  },
+  {
+    "id": 2251,
+    "id2": 2251,
+    "name": "Burning Blast"
+  },
+  {
+    "id": 2260,
+    "id2": 2260,
+    "name": "Gigantic Cross"
+  },
+  {
+    "id": 2270,
+    "id2": 2270,
+    "name": "Dark Inscription"
+  },
+  {
+    "id": 2271,
+    "id2": 2271,
+    "name": "Emperor's Cannon"
+  },
+  {
+    "id": 2280,
+    "id2": 2280,
+    "name": "Unknown (2280)"
+  },
+  {
+    "id": 2320,
+    "id2": 2320,
+    "name": "Dragon Spiral"
+  },
+  {
+    "id": 2321,
+    "id2": 2321,
+    "name": "Indomitable"
+  },
+  {
+    "id": 2330,
+    "id2": 2330,
+    "name": "Confusion Blade (Ch4)"
+  },
+  {
+    "id": 2340,
+    "id2": 2340,
+    "name": "Kairos Cannon (Ch4)"
+  },
+  {
+    "id": 2341,
+    "id2": 2341,
+    "name": "Holy Inscription (Ch4)"
+  },
+  {
+    "id": 2342,
+    "id2": 2342,
+    "name": "Temporal Holy Ray (Ch4)"
+  },
+  {
+    "id": 2343,
+    "id2": 2343,
+    "name": "Maximum Charge (Ch4)"
+  },
+  {
+    "id": 2350,
+    "id2": 2350,
+    "name": "- Error -"
+  },
+  {
+    "id": 2351,
+    "id2": 2351,
+    "name": "- Error -"
+  },
+  {
+    "id": 2352,
+    "id2": 2352,
+    "name": "- Error -"
+  },
+  {
+    "id": 2353,
+    "id2": 2353,
+    "name": "- Error -"
+  },
+  {
+    "id": 2370,
+    "id2": 2370,
+    "name": "Confusion Blade (Ch4 v2)"
+  },
+  {
+    "id": 2380,
+    "id2": 2380,
+    "name": "Kairos Cannon (Ch4 v2)"
+  },
+  {
+    "id": 2381,
+    "id2": 2381,
+    "name": "Holy Inscription (Ch4 v2)"
+  },
+  {
+    "id": 2382,
+    "id2": 2382,
+    "name": "Temporal Holy Ray (Ch4 v2)"
+  }
+]

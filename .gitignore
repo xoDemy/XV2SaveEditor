@@ -1,0 +1,61 @@
+# Visual Studio / .NET build output
+.vs/
+bin/
+obj/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local Codex and development artifacts
+.codex-*/
+work/
+**/.appdata/
+/NuGet.Codex.Config
+
+# Local packages and publish output
+publish/
+portable/
+releases/
+*.zip
+*.7z
+*.rar
+
+# Required third-party binaries stay local until their redistribution terms
+# have been confirmed. See THIRD-PARTY-NOTICES.md.
+/AesCtrLibrary.dll
+/Tools/PlatformConverters/*.exe
+
+# Canonical copies live under Data/Progress and are embedded by the project.
+/SysFlags.xml
+/Tokipedia.xml
+
+# Game saves, backups, and exported characters
+*.sav
+*.sav.*
+*.bak
+*.backup
+*.excac
+*.sdata
+*.SDATA
+DBXV2*
+*_BACKUP_*
+
+# Xbox save containers commonly have no extension. Keep unknown generated
+# containers out of the repository by placing them under saves/ or test-data/.
+saves/
+test-data/
+
+# Logs, dumps, temporary files, and scan output
+*.log
+*.dmp
+*.tmp
+*.temp
+XV2_scan_candidates*.txt
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store

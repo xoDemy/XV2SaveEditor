@@ -1,0 +1,923 @@
+[
+  {
+    "id": 0,
+    "short": "GOK",
+    "name": "Goku"
+  },
+  {
+    "id": 1,
+    "short": "BDK",
+    "name": "Bardock"
+  },
+  {
+    "id": 2,
+    "short": "GK4",
+    "name": "Goku (Super Saiyan 4)"
+  },
+  {
+    "id": 3,
+    "short": "GOD",
+    "name": "Goku (Super Saiyan God)"
+  },
+  {
+    "id": 4,
+    "short": "GKG",
+    "name": "Goku (GT)"
+  },
+  {
+    "id": 5,
+    "short": "GTG",
+    "name": "Goten"
+  },
+  {
+    "id": 6,
+    "short": "GHS",
+    "name": "Gohan (Kid)"
+  },
+  {
+    "id": 7,
+    "short": "GHM",
+    "name": "Gohan (Teen)"
+  },
+  {
+    "id": 8,
+    "short": "GHL",
+    "name": "Gohan (Adult)"
+  },
+  {
+    "id": 9,
+    "short": "PIC",
+    "name": "Piccolo"
+  },
+  {
+    "id": 10,
+    "short": "KLL",
+    "name": "Krillin"
+  },
+  {
+    "id": 11,
+    "short": "YMC",
+    "name": "Yamcha"
+  },
+  {
+    "id": 12,
+    "short": "TSH",
+    "name": "Tien"
+  },
+  {
+    "id": 13,
+    "short": "RAD",
+    "name": "Raditz"
+  },
+  {
+    "id": 14,
+    "short": "SBM",
+    "name": "Kaiwareman"
+  },
+  {
+    "id": 15,
+    "short": "NAP",
+    "name": "Nappa"
+  },
+  {
+    "id": 16,
+    "short": "VGT",
+    "name": "Vegeta"
+  },
+  {
+    "id": 17,
+    "short": "VG4",
+    "name": "Vegeta (Super Saiyan 4)"
+  },
+  {
+    "id": 18,
+    "short": "GRD",
+    "name": "Guldo"
+  },
+  {
+    "id": 19,
+    "short": "BAT",
+    "name": "Burter"
+  },
+  {
+    "id": 20,
+    "short": "RCM",
+    "name": "Recoome"
+  },
+  {
+    "id": 21,
+    "short": "JES",
+    "name": "Jeice"
+  },
+  {
+    "id": 22,
+    "short": "GNY",
+    "name": "Captain Ginyu"
+  },
+  {
+    "id": 23,
+    "short": "FRZ",
+    "name": "Frieza (1st Form)"
+  },
+  {
+    "id": 24,
+    "short": "FR4",
+    "name": "Frieza (Final Form)"
+  },
+  {
+    "id": 25,
+    "short": "FR5",
+    "name": "Frieza (Full Power)"
+  },
+  {
+    "id": 26,
+    "short": "TRX",
+    "name": "Trunks"
+  },
+  {
+    "id": 27,
+    "short": "TRS",
+    "name": "Trunks (Kid)"
+  },
+  {
+    "id": 28,
+    "short": "G17",
+    "name": "Android 17"
+  },
+  {
+    "id": 29,
+    "short": "S17",
+    "name": "Super 17"
+  },
+  {
+    "id": 30,
+    "short": "G18",
+    "name": "Android 18"
+  },
+  {
+    "id": 31,
+    "short": "CL3",
+    "name": "Cell (Perfect)"
+  },
+  {
+    "id": 32,
+    "short": "CL4",
+    "name": "Cell (Full Power)"
+  },
+  {
+    "id": 33,
+    "short": "CLJ",
+    "name": "Cell Jr."
+  },
+  {
+    "id": 34,
+    "short": "VDL",
+    "name": "Videl"
+  },
+  {
+    "id": 35,
+    "short": "BUL",
+    "name": "Majin Buu"
+  },
+  {
+    "id": 36,
+    "short": "BUM",
+    "name": "Super Buu"
+  },
+  {
+    "id": 37,
+    "short": "BUS",
+    "name": "Kid Buu"
+  },
+  {
+    "id": 38,
+    "short": "GTX",
+    "name": "Gotenks"
+  },
+  {
+    "id": 39,
+    "short": "VTO",
+    "name": "Vegito"
+  },
+  {
+    "id": 40,
+    "short": "BRL",
+    "name": "Broly"
+  },
+  {
+    "id": 41,
+    "short": "BLS",
+    "name": "God of Destruction Beerus"
+  },
+  {
+    "id": 42,
+    "short": "PAN",
+    "name": "Pan"
+  },
+  {
+    "id": 43,
+    "short": "GIL",
+    "name": "Giru"
+  },
+  {
+    "id": 44,
+    "short": "OSV",
+    "name": "Great Ape Vegeta"
+  },
+  {
+    "id": 45,
+    "short": "OSB",
+    "name": "Great Ape Bardock"
+  },
+  {
+    "id": 46,
+    "short": "OBB",
+    "name": "Great Ape Baby"
+  },
+  {
+    "id": 48,
+    "short": "SD3",
+    "name": "Eis Shenron"
+  },
+  {
+    "id": 49,
+    "short": "SD4",
+    "name": "Nuova Shenron"
+  },
+  {
+    "id": 50,
+    "short": "SD1",
+    "name": "Omega Shenron"
+  },
+  {
+    "id": 51,
+    "short": "GGT",
+    "name": "Gogeta (Super Saiyan 4)"
+  },
+  {
+    "id": 52,
+    "short": "STN",
+    "name": "Hercule"
+  },
+  {
+    "id": 53,
+    "short": "DMG",
+    "name": "Demon God Demigra"
+  },
+  {
+    "id": 54,
+    "short": "DM2",
+    "name": "Demon God Demigra (Final Form)"
+  },
+  {
+    "id": 56,
+    "short": "SIN",
+    "name": "Shenron"
+  },
+  {
+    "id": 57,
+    "short": "TOK",
+    "name": "Supreme Kai of Time"
+  },
+  {
+    "id": 58,
+    "short": "BUZ",
+    "name": "Majin Buu (Small)"
+  },
+  {
+    "id": 59,
+    "short": "APL",
+    "name": "Nabana"
+  },
+  {
+    "id": 60,
+    "short": "RSB",
+    "name": "Raspberry"
+  },
+  {
+    "id": 61,
+    "short": "GHP",
+    "name": "Gohan (4 Years Old)"
+  },
+  {
+    "id": 62,
+    "short": "MIR",
+    "name": "Mira"
+  },
+  {
+    "id": 63,
+    "short": "TOW",
+    "name": "Towa"
+  },
+  {
+    "id": 65,
+    "short": "WIS",
+    "name": "Whis"
+  },
+  {
+    "id": 66,
+    "short": "HST",
+    "name": "Reception Robot"
+  },
+  {
+    "id": 67,
+    "short": "JCO",
+    "name": "Jaco"
+  },
+  {
+    "id": 71,
+    "short": "POD",
+    "name": "POD"
+  },
+  {
+    "id": 72,
+    "short": "FRG",
+    "name": "Captain Ginyu"
+  },
+  {
+    "id": 73,
+    "short": "STD",
+    "name": "Hercule"
+  },
+  {
+    "id": 74,
+    "short": "OSN",
+    "name": "Great Ape Nappa"
+  },
+  {
+    "id": 75,
+    "short": "CL1",
+    "name": "Cell (First Form)"
+  },
+  {
+    "id": 76,
+    "short": "TKT",
+    "name": "Tokitoki"
+  },
+  {
+    "id": 77,
+    "short": "TK3",
+    "name": "TK3"
+  },
+  {
+    "id": 78,
+    "short": "ROK",
+    "name": "Elder Kai"
+  },
+  {
+    "id": 80,
+    "short": "GGK",
+    "name": "SSGSS Goku"
+  },
+  {
+    "id": 81,
+    "short": "GVG",
+    "name": "SSGSS Vegeta"
+  },
+  {
+    "id": 82,
+    "short": "GFR",
+    "name": "Golden Frieza"
+  },
+  {
+    "id": 83,
+    "short": "G16",
+    "name": "Android 16"
+  },
+  {
+    "id": 84,
+    "short": "COL",
+    "name": "Metal Cooler"
+  },
+  {
+    "id": 85,
+    "short": "CO2",
+    "name": "Cooler (Final Form)"
+  },
+  {
+    "id": 86,
+    "short": "GHF",
+    "name": "Gohan (Future)"
+  },
+  {
+    "id": 87,
+    "short": "TLS",
+    "name": "Turles"
+  },
+  {
+    "id": 88,
+    "short": "JNB",
+    "name": "Janemba"
+  },
+  {
+    "id": 89,
+    "short": "FOF",
+    "name": "???"
+  },
+  {
+    "id": 96,
+    "short": "NP1",
+    "name": "NP1"
+  },
+  {
+    "id": 97,
+    "short": "NP2",
+    "name": "NP2"
+  },
+  {
+    "id": 98,
+    "short": "NP3",
+    "name": "NP3"
+  },
+  {
+    "id": 99,
+    "short": "NP4",
+    "name": "NP4"
+  },
+  {
+    "id": 100,
+    "short": "HUM",
+    "name": "HUM"
+  },
+  {
+    "id": 101,
+    "short": "HUF",
+    "name": "HUF"
+  },
+  {
+    "id": 102,
+    "short": "SYM",
+    "name": "SYM"
+  },
+  {
+    "id": 103,
+    "short": "SYF",
+    "name": "SYF"
+  },
+  {
+    "id": 104,
+    "short": "NMC",
+    "name": "NMC"
+  },
+  {
+    "id": 105,
+    "short": "FRI",
+    "name": "FRI"
+  },
+  {
+    "id": 106,
+    "short": "MAM",
+    "name": "MAM"
+  },
+  {
+    "id": 107,
+    "short": "MAF",
+    "name": "MAF"
+  },
+  {
+    "id": 108,
+    "short": "MAP",
+    "name": "MAP"
+  },
+  {
+    "id": 110,
+    "short": "TE0",
+    "name": "Majuub"
+  },
+  {
+    "id": 111,
+    "short": "TE1",
+    "name": "Android 21"
+  },
+  {
+    "id": 112,
+    "short": "EL0",
+    "name": "Supreme Kai of Time"
+  },
+  {
+    "id": 113,
+    "short": "TWP",
+    "name": "Pikkon"
+  },
+  {
+    "id": 114,
+    "short": "TWT",
+    "name": "Toppo (God of Destruction)"
+  },
+  {
+    "id": 115,
+    "short": "THJ",
+    "name": "Jiren (Full Power)"
+  },
+  {
+    "id": 116,
+    "short": "THG",
+    "name": "Gogeta (DB Super)"
+  },
+  {
+    "id": 117,
+    "short": "THC",
+    "name": "Caulifla (Super Saiyan 2)"
+  },
+  {
+    "id": 118,
+    "short": "THK",
+    "name": "Kale (Super Saiyan 2)"
+  },
+  {
+    "id": 120,
+    "short": "GG1",
+    "name": "Gogeta (Super Saiyan)"
+  },
+  {
+    "id": 121,
+    "short": "SLG",
+    "name": "Lord Slug"
+  },
+  {
+    "id": 122,
+    "short": "ZBN",
+    "name": "Zarbon"
+  },
+  {
+    "id": 123,
+    "short": "DDR",
+    "name": "Dodoria"
+  },
+  {
+    "id": 124,
+    "short": "NIL",
+    "name": "Nail"
+  },
+  {
+    "id": 125,
+    "short": "MRN",
+    "name": "Mira (Final Form)"
+  },
+  {
+    "id": 126,
+    "short": "HIT",
+    "name": "Hit"
+  },
+  {
+    "id": 127,
+    "short": "DND",
+    "name": "Dende"
+  },
+  {
+    "id": 128,
+    "short": "SCR",
+    "name": "Guru"
+  },
+  {
+    "id": 129,
+    "short": "BLM",
+    "name": "Bulma"
+  },
+  {
+    "id": 130,
+    "short": "JNG",
+    "name": "Janemba"
+  },
+  {
+    "id": 131,
+    "short": "GKB",
+    "name": "Goku Black"
+  },
+  {
+    "id": 132,
+    "short": "TRF",
+    "name": "Future Trunks"
+  },
+  {
+    "id": 133,
+    "short": "FRS",
+    "name": "Frost"
+  },
+  {
+    "id": 134,
+    "short": "CAB",
+    "name": "Cabba"
+  },
+  {
+    "id": 135,
+    "short": "HIK",
+    "name": "Hit (Awoken)"
+  },
+  {
+    "id": 136,
+    "short": "VDS",
+    "name": "Vados"
+  },
+  {
+    "id": 137,
+    "short": "CMP",
+    "name": "God of Destruction Champa"
+  },
+  {
+    "id": 138,
+    "short": "ZMS",
+    "name": "Zamasu"
+  },
+  {
+    "id": 139,
+    "short": "GBR",
+    "name": "Ros\u00e9 Goku Black"
+  },
+  {
+    "id": 140,
+    "short": "BJK",
+    "name": "Bojack"
+  },
+  {
+    "id": 141,
+    "short": "VTB",
+    "name": "SSGSS Vegito"
+  },
+  {
+    "id": 142,
+    "short": "ZMG",
+    "name": "Fused Zamasu"
+  },
+  {
+    "id": 143,
+    "short": "ZMD",
+    "name": "Fused Zamasu (Half-Corrupted)"
+  },
+  {
+    "id": 144,
+    "short": "BUU",
+    "name": "Majin Buu (Gohan Absorbed)"
+  },
+  {
+    "id": 145,
+    "short": "DBR",
+    "name": "Dabura"
+  },
+  {
+    "id": 146,
+    "short": "G13",
+    "name": "Android 13"
+  },
+  {
+    "id": 147,
+    "short": "TPO",
+    "name": "Tapion"
+  },
+  {
+    "id": 148,
+    "short": "R17",
+    "name": "Android 17 (DB Super)"
+  },
+  {
+    "id": 149,
+    "short": "JRN",
+    "name": "Jiren"
+  },
+  {
+    "id": 150,
+    "short": "FUU",
+    "name": "Fu"
+  },
+  {
+    "id": 151,
+    "short": "GKS",
+    "name": "Goku (Ultra Instinct)"
+  },
+  {
+    "id": 152,
+    "short": "KFL",
+    "name": "Kefla (Super Saiyan)"
+  },
+  {
+    "id": 153,
+    "short": "SB2",
+    "name": "Super Baby 2"
+  },
+  {
+    "id": 154,
+    "short": "TM0",
+    "name": "SSGSS Gogeta"
+  },
+  {
+    "id": 155,
+    "short": "TM1",
+    "name": "Broly (Full Power Super Saiyan)"
+  },
+  {
+    "id": 156,
+    "short": "NI0",
+    "name": "Ribrianne"
+  },
+  {
+    "id": 157,
+    "short": "NI1",
+    "name": "SSGSS Vegeta (Evolved)"
+  },
+  {
+    "id": 158,
+    "short": "NI2",
+    "name": "Vegeta (Super Saiyan God)"
+  },
+  {
+    "id": 200,
+    "short": "BLF",
+    "name": "Bulma"
+  },
+  {
+    "id": 201,
+    "short": "FOK",
+    "name": "Goku (Ultra Instinct -Sign-)"
+  },
+  {
+    "id": 202,
+    "short": "FOD",
+    "name": "Dyspo"
+  },
+  {
+    "id": 203,
+    "short": "FOV",
+    "name": "Vegeta (GT)"
+  },
+  {
+    "id": 204,
+    "short": "CL2",
+    "name": "Cell (2nd Form)"
+  },
+  {
+    "id": 205,
+    "short": "URN",
+    "name": "Oolong"
+  },
+  {
+    "id": 206,
+    "short": "FIO",
+    "name": "Gamma 1"
+  },
+  {
+    "id": 207,
+    "short": "FIT",
+    "name": "Gamma 2"
+  },
+  {
+    "id": 208,
+    "short": "FIG",
+    "name": "Gohan (DBS Super Hero)"
+  },
+  {
+    "id": 209,
+    "short": "SIG",
+    "name": "Gohan (Beast)"
+  },
+  {
+    "id": 210,
+    "short": "SIP",
+    "name": "Piccolo (Power Awakening)"
+  },
+  {
+    "id": 211,
+    "short": "SIO",
+    "name": "Orange Piccolo"
+  },
+  {
+    "id": 212,
+    "short": "SIM",
+    "name": "Cell Max"
+  },
+  {
+    "id": 213,
+    "short": "SVE",
+    "name": "Android 18 (DB Super)"
+  },
+  {
+    "id": 214,
+    "short": "SVV",
+    "name": "Videl (DB Super)"
+  },
+  {
+    "id": 215,
+    "short": "SIH",
+    "name": "Cell Max"
+  },
+  {
+    "id": 216,
+    "short": "EIB",
+    "name": "Broly (Restrained)"
+  },
+  {
+    "id": 217,
+    "short": "EIG",
+    "name": "Vegeta (Super Saiyan God)"
+  },
+  {
+    "id": 218,
+    "short": "EIR",
+    "name": "Goku Black (Super Saiyan Ros\u00e9)"
+  },
+  {
+    "id": 219,
+    "short": "EIM",
+    "name": "Broly (Restrained)"
+  },
+  {
+    "id": 221,
+    "short": "NTV",
+    "name": "God of Destruction Belmod"
+  },
+  {
+    "id": 222,
+    "short": "NTJ",
+    "name": "Jiren (Full Power)"
+  },
+  {
+    "id": 223,
+    "short": "NTG",
+    "name": "Goku (Mini)"
+  },
+  {
+    "id": 224,
+    "short": "XXG",
+    "name": "SS4 Goku (DAIMA)"
+  },
+  {
+    "id": 225,
+    "short": "XXV",
+    "name": "SS3 Vegeta (DAIMA)"
+  },
+  {
+    "id": 226,
+    "short": "XAB",
+    "name": "Broly (DB Super)"
+  },
+  {
+    "id": 227,
+    "short": "XAF",
+    "name": "Golden Frieza"
+  },
+  {
+    "id": 228,
+    "short": "XAS",
+    "name": "Shenron"
+  },
+  {
+    "id": 229,
+    "short": "XAC",
+    "name": "Cheelai"
+  },
+  {
+    "id": 230,
+    "short": "XAN",
+    "name": "Broly (DB Super)"
+  },
+  {
+    "id": 231,
+    "short": "XAM",
+    "name": "Broly (DB Super)"
+  },
+  {
+    "id": 232,
+    "short": "XBG",
+    "name": "Goku (Ch4)"
+  },
+  {
+    "id": 233,
+    "short": "XBF",
+    "name": "Fu (Ch4)"
+  },
+  {
+    "id": 234,
+    "short": "XBT",
+    "name": "Supreme Kai of Time (Ch4)"
+  },
+  {
+    "id": 235,
+    "short": "XBL",
+    "name": "Future's Doom"
+  },
+  {
+    "id": 236,
+    "short": "XBN",
+    "name": "Fu (v2)"
+  },
+  {
+    "id": 237,
+    "short": "XBM",
+    "name": "Fu (v3)"
+  },
+  {
+    "id": 238,
+    "short": "XBK",
+    "name": "Supreme Kai of Time (v2)"
+  },
+  {
+    "id": 239,
+    "short": "XBD",
+    "name": "Fu (v4)"
+  },
+  {
+    "id": 240,
+    "short": "XBP",
+    "name": "Supreme Kai of Time (v3)"
+  }
+]
+

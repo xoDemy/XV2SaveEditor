@@ -1,0 +1,347 @@
+[
+  {
+    "id": 10000,
+    "id2": 0,
+    "name": "Spirit Explosion"
+  },
+  {
+    "id": 10001,
+    "id2": 1,
+    "name": "Turn Retreat"
+  },
+  {
+    "id": 10050,
+    "id2": 50,
+    "name": "High Tension Turn"
+  },
+  {
+    "id": 10060,
+    "id2": 60,
+    "name": "Spirit Slash"
+  },
+  {
+    "id": 10090,
+    "id2": 90,
+    "name": "Super Explosive Wave"
+  },
+  {
+    "id": 10091,
+    "id2": 91,
+    "name": "Special Beam Blast"
+  },
+  {
+    "id": 10101,
+    "id2": 101,
+    "name": "Spread Shot Retreat"
+  },
+  {
+    "id": 10102,
+    "id2": 102,
+    "name": "Solar Flare (Festival)"
+  },
+  {
+    "id": 10130,
+    "id2": 130,
+    "name": "Break Strike"
+  },
+  {
+    "id": 10160,
+    "id2": 160,
+    "name": "Explosive Wave"
+  },
+  {
+    "id": 10180,
+    "id2": 180,
+    "name": "Psycho Escape"
+  },
+  {
+    "id": 10181,
+    "id2": 181,
+    "name": "Miracle Kneel"
+  },
+  {
+    "id": 10190,
+    "id2": 190,
+    "name": "Mach Dash"
+  },
+  {
+    "id": 10200,
+    "id2": 200,
+    "name": "Final Pose"
+  },
+  {
+    "id": 10210,
+    "id2": 210,
+    "name": "Spinning Blade"
+  },
+  {
+    "id": 10240,
+    "id2": 240,
+    "name": "Psychic Move"
+  },
+  {
+    "id": 10260,
+    "id2": 260,
+    "name": "Armored Boost"
+  },
+  {
+    "id": 10280,
+    "id2": 280,
+    "name": "Energy Field"
+  },
+  {
+    "id": 10300,
+    "id2": 300,
+    "name": "Rolling Bullet"
+  },
+  {
+    "id": 10310,
+    "id2": 310,
+    "name": "Energy Barrier"
+  },
+  {
+    "id": 10331,
+    "id2": 331,
+    "name": "Instant Rise"
+  },
+  {
+    "id": 10340,
+    "id2": 340,
+    "name": "Super Back Jump"
+  },
+  {
+    "id": 10341,
+    "id2": 341,
+    "name": "Super Front Jump"
+  },
+  {
+    "id": 10342,
+    "id2": 342,
+    "name": "Super Back Jump"
+  },
+  {
+    "id": 10343,
+    "id2": 343,
+    "name": "Eagle Kick (Festival)"
+  },
+  {
+    "id": 10350,
+    "id2": 350,
+    "name": "Candy Beam"
+  },
+  {
+    "id": 10351,
+    "id2": 351,
+    "name": "Buu Buu Ball"
+  },
+  {
+    "id": 10360,
+    "id2": 360,
+    "name": "Dimension Cannon"
+  },
+  {
+    "id": 10370,
+    "id2": 370,
+    "name": "Angry Shout"
+  },
+  {
+    "id": 10380,
+    "id2": 380,
+    "name": "Victory Cannon"
+  },
+  {
+    "id": 10390,
+    "id2": 390,
+    "name": "Force Shield"
+  },
+  {
+    "id": 10400,
+    "id2": 400,
+    "name": "Blaster Meteor"
+  },
+  {
+    "id": 10410,
+    "id2": 410,
+    "name": "Headshot"
+  },
+  {
+    "id": 10420,
+    "id2": 420,
+    "name": "Maiden Burst"
+  },
+  {
+    "id": 10440,
+    "id2": 440,
+    "name": "Howl"
+  },
+  {
+    "id": 10480,
+    "id2": 480,
+    "name": "Absolute Zero"
+  },
+  {
+    "id": 10490,
+    "id2": 490,
+    "name": "Dragon Burn"
+  },
+  {
+    "id": 10510,
+    "id2": 510,
+    "name": "Punisher Guard"
+  },
+  {
+    "id": 10531,
+    "id2": 531,
+    "name": "Peeler Storm"
+  },
+  {
+    "id": 10540,
+    "id2": 540,
+    "name": "Energy Boil"
+  },
+  {
+    "id": 10630,
+    "id2": 630,
+    "name": "Science Vanish"
+  },
+  {
+    "id": 10635,
+    "id2": 635,
+    "name": "Science Vanish"
+  },
+  {
+    "id": 10650,
+    "id2": 650,
+    "name": "Warp"
+  },
+  {
+    "id": 10670,
+    "id2": 670,
+    "name": "Elite Barrage"
+  },
+  {
+    "id": 10840,
+    "id2": 840,
+    "name": "Hyper Movement"
+  },
+  {
+    "id": 10850,
+    "id2": 850,
+    "name": "Fake Blast"
+  },
+  {
+    "id": 10860,
+    "id2": 860,
+    "name": "Energy Dome"
+  },
+  {
+    "id": 11100,
+    "id2": 1100,
+    "name": "Brutal Buster"
+  },
+  {
+    "id": 11110,
+    "id2": 1110,
+    "name": "Total Evasion"
+  },
+  {
+    "id": 11120,
+    "id2": 1120,
+    "name": "Chaos Wall"
+  },
+  {
+    "id": 11150,
+    "id2": 1150,
+    "name": "Mighty Explosive Wave"
+  },
+  {
+    "id": 11220,
+    "id2": 1220,
+    "name": "Bloody Counter"
+  },
+  {
+    "id": 11350,
+    "id2": 1350,
+    "name": "Time Skip/Tremor Pulse"
+  },
+  {
+    "id": 11430,
+    "id2": 1430,
+    "name": "Flames of Retribution"
+  },
+  {
+    "id": 11510,
+    "id2": 1510,
+    "name": "Instant Rise"
+  },
+  {
+    "id": 11520,
+    "id2": 1520,
+    "name": "Blaster Meteor"
+  },
+  {
+    "id": 11550,
+    "id2": 1550,
+    "name": "Instant Rise"
+  },
+  {
+    "id": 11560,
+    "id2": 1560,
+    "name": "Maiden Burst"
+  },
+  {
+    "id": 11570,
+    "id2": 1570,
+    "name": "Flash Strike"
+  },
+  {
+    "id": 12010,
+    "id2": 2010,
+    "name": "Celestial Wave"
+  },
+  {
+    "id": 12080,
+    "id2": 2080,
+    "name": "Spirit Slash"
+  },
+  {
+    "id": 12090,
+    "id2": 2090,
+    "name": "Evil Whirlwind"
+  },
+  {
+    "id": 12100,
+    "id2": 2100,
+    "name": "Evil Flight Strike"
+  },
+  {
+    "id": 12122,
+    "id2": 2122,
+    "name": "Max Barrier"
+  },
+  {
+    "id": 12260,
+    "id2": 2260,
+    "name": "Saiyan Blaster"
+  },
+  {
+    "id": 12330,
+    "id2": 2330,
+    "name": "Super Back Jump (Ch4)"
+  },
+  {
+    "id": 12340,
+    "id2": 2340,
+    "name": "Chaos Wall"
+  },
+  {
+    "id": 12350,
+    "id2": 2350,
+    "name": "- Error -"
+  },
+  {
+    "id": 12380,
+    "id2": 2380,
+    "name": "Chaos Wall (v2)"
+  }
+]

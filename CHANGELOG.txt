@@ -1,0 +1,83 @@
+XV2 SAVE EDITOR — 1.0.0 RC13
+=============================
+
+RC13 FEATURES AND FIXES
+- Added a dedicated per-CaC Play Data editor using the verified 208-byte record.
+- Added training, Time Rift/base activity, play trends, Shenron wishes, and
+  Expert Mission statistics.
+- Added named searchable mentor, training class, character, and skill fields
+  while preserving unknown/modded IDs.
+- Added Player, Ranked, and Endless match/win/loss records, including Endless
+  Losses and synchronized aggregate Online Wins.
+- Added calculated Online Battles, Online Losses, and Win Rate summaries.
+- Added selected-CaC and all-CaC load-time snapshot reverts.
+- Added Play Data changes to the pre-save summary.
+- Rebuilt the page into a responsive two-column layout with a full-width online
+  record section and fixed final-row alignment.
+
+RC12 FIX
+- Added verified support for legacy compact .excac exports that store their
+  character data in a Base64 Data block.
+- Compact imports preserve the destination slot's progression prefix and DLC
+  block instead of guessing or overwriting unsupported data.
+- Japanese and other Unicode CaC names remain fully supported.
+
+RC11 FEATURES AND FIXES
+- Expanded Completionist and Everything Verified Max-Out packages with clothes,
+  Accessories, Super Souls, Mix Items, Capsules, Festival presets, and a perfect
+  all +5 QQ Bang.
+- Added verified regular/DLC mentor customization record initialization.
+- Giving Customization Keys now initializes missing partner records for occupied CaCs.
+- Added Unlock + initialize all to Mentor Customisation while preserving existing records.
+- Activated the verified regular, DLC, and Festival customization-option bitfields.
+- Confirmed the reported save corruption was a mismatched Steam ownership ID; the
+  compared current save and backups were structurally healthy and byte-identical.
+
+RC10 FIX
+- Replaced the old generic Black Eyes action with verified male and female variants.
+- Male Black Eyes applies Eyes 104 and Forehead 50.
+- Female Black Eyes applies Eyes 167 and Forehead 74.
+
+RC9 FIX
+- Improved .excac compatibility for Japanese and other Unicode-named CaCs.
+- Recognizes verified Base/DLC blocks across harmless casing, namespace, and wrapper variations.
+- Retains strict block-length validation before importing character data.
+
+RELEASE POLISH
+- Cropped the application artwork to its circular emblem and lettering.
+- Replaced the square black icon background with transparent corners.
+- Added a custom multi-resolution icon to the EXE, editor window, and taskbar.
+- Hard-bound visible CaC controls to the slot they were loaded from.
+- Prevented save/history commits from following a temporarily mismatched selector.
+- Added rapid-switch and forced-selector-mismatch regression coverage.
+- Added a confirmed Empty All Presets action for the selected CaC.
+- Empty presets use verified in-save values and preserve dormant colour fields.
+- Rebuilt the pre-save warning window with visible Continue/Cancel controls.
+- Added full selected-warning details, tooltips, and clear non-repairable labels.
+- Fixed unsaved CaC names, stats, and appearance reverting when switching slots.
+- Centralized backups under Documents and organized them by platform/source save.
+- Kept older beside-save backup locations visible in Backup Recovery.
+- Added first-launch safe-editing guide.
+- Added settings for automatic last-save reopening and history management.
+- Added a recent-saves browser with open-location support.
+- Added About/version/credits and support information.
+- Added clickable SteamID, Steam-folder, and Discord help links.
+- Moved crash reports to Local AppData so installed/read-only folders work safely.
+- Added background and fatal-exception reporting with version/OS details.
+- Improved the responsive Save Control layout and fixed Zeni/Steam-link overlap.
+
+EXISTING MAJOR FEATURES
+- Full CaC, appearance, preset, inventory, QQ Bang, skill, quest, progression,
+  Tokipedia, mentor, festival preset, and verified unlock tooling.
+- CaC/preset import, export, libraries, batch operations, and selective transfer.
+- PC, Xbox, and verified PlayStation loading/conversion workflows.
+- Steam ownership linking.
+- Save diagnostics, pre-save validation, change history, backup recovery,
+  comparison, drag/drop, dashboard, max-out wizard, and automatic backups.
+
+RC1 VERIFICATION
+- x64 Release build: 0 errors, 0 warnings.
+- PC fixture: load, UI refresh, and exact round-trip passed.
+- Xbox fixture: load, UI refresh, and exact round-trip passed.
+- Decrypted PlayStation fixture: load, UI refresh, and exact round-trip passed.
+- Encrypted PlayStation fixture: load, UI refresh, and exact round-trip passed.

@@ -1,0 +1,858 @@
+[
+  {
+    "id": 0,
+    "name": "Piccolo's Turban"
+  },
+  {
+    "id": 1,
+    "name": "Pan's Bandana"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Gero's Hat"
+  },
+  {
+    "id": 3,
+    "name": "Android 19's Hat"
+  },
+  {
+    "id": 4,
+    "name": "Great Saiyaman Helmet"
+  },
+  {
+    "id": 5,
+    "name": "Chi-Chi's Helmet"
+  },
+  {
+    "id": 6,
+    "name": "The Ox-King's Helmet"
+  },
+  {
+    "id": 7,
+    "name": "Spike the Devil Man's Head"
+  },
+  {
+    "id": 8,
+    "name": "Mr. Popo's Turban"
+  },
+  {
+    "id": 9,
+    "name": "Saiyuki Hood"
+  },
+  {
+    "id": 10,
+    "name": "Launch Wig"
+  },
+  {
+    "id": 11,
+    "name": "King Kai's Hat"
+  },
+  {
+    "id": 12,
+    "name": "General Blue's Army Cap"
+  },
+  {
+    "id": 13,
+    "name": "Bandages the Mummy's Head"
+  },
+  {
+    "id": 14,
+    "name": "Fortuneteller Baba's Hat"
+  },
+  {
+    "id": 15,
+    "name": "Pilaf's Hat"
+  },
+  {
+    "id": 16,
+    "name": "Angel Halo"
+  },
+  {
+    "id": 17,
+    "name": "Goku Wig"
+  },
+  {
+    "id": 18,
+    "name": "Goku Wig (Super Saiyan)"
+  },
+  {
+    "id": 19,
+    "name": "Hercule Wig"
+  },
+  {
+    "id": 20,
+    "name": "Master Shen's Hat"
+  },
+  {
+    "id": 21,
+    "name": "Soft Hat"
+  },
+  {
+    "id": 22,
+    "name": "Great Saiyaman Bandana 1"
+  },
+  {
+    "id": 23,
+    "name": "Great Saiyaman Bandana 2"
+  },
+  {
+    "id": 24,
+    "name": "Sedge Hat"
+  },
+  {
+    "id": 25,
+    "name": "Krillin's Cap"
+  },
+  {
+    "id": 26,
+    "name": "Ox-King's Cap"
+  },
+  {
+    "id": 27,
+    "name": "Arale-chan's Cap"
+  },
+  {
+    "id": 28,
+    "name": "Sunglasses (World Tournament Anncr.)"
+  },
+  {
+    "id": 29,
+    "name": "Sunglasses (King Kai)"
+  },
+  {
+    "id": 30,
+    "name": "Glasses (Cell Game Commentator)"
+  },
+  {
+    "id": 31,
+    "name": "Glasses (Gohan)"
+  },
+  {
+    "id": 32,
+    "name": "Sunglasses (Turtle Hermit 1)"
+  },
+  {
+    "id": 33,
+    "name": "Sunglasses (Turtle Hermit 2)"
+  },
+  {
+    "id": 34,
+    "name": "Accessory (DLC) #34"
+  },
+  {
+    "id": 35,
+    "name": "Mustache Glasses"
+  },
+  {
+    "id": 36,
+    "name": "Turtle Hermit's Beard"
+  },
+  {
+    "id": 37,
+    "name": "New Model Scouter (Red)"
+  },
+  {
+    "id": 38,
+    "name": "New Model Scouter (Blue)"
+  },
+  {
+    "id": 39,
+    "name": "New Model Scouter (Green)"
+  },
+  {
+    "id": 40,
+    "name": "New Model Scouter (Purple)"
+  },
+  {
+    "id": 41,
+    "name": "Scouter (Red)"
+  },
+  {
+    "id": 42,
+    "name": "Scouter (Blue)"
+  },
+  {
+    "id": 43,
+    "name": "Scouter (Green)"
+  },
+  {
+    "id": 44,
+    "name": "Scouter (Purple)"
+  },
+  {
+    "id": 45,
+    "name": "Old Model Scouter (Red)"
+  },
+  {
+    "id": 46,
+    "name": "Old Model Scouter (Blue)"
+  },
+  {
+    "id": 47,
+    "name": "Old Model Scouter (Green)"
+  },
+  {
+    "id": 48,
+    "name": "Old Model Scouter (Purple)"
+  },
+  {
+    "id": 49,
+    "name": "Gohan Mask"
+  },
+  {
+    "id": 50,
+    "name": "Turtle Hermit's Shell"
+  },
+  {
+    "id": 51,
+    "name": "Power Pole"
+  },
+  {
+    "id": 52,
+    "name": "Tapion's Sword"
+  },
+  {
+    "id": 53,
+    "name": "Turtle Hermit's Staff"
+  },
+  {
+    "id": 54,
+    "name": "Ninja Katana"
+  },
+  {
+    "id": 55,
+    "name": "Yamcha's Sword"
+  },
+  {
+    "id": 56,
+    "name": "Z-Sword"
+  },
+  {
+    "id": 57,
+    "name": "Master Korin's Staff"
+  },
+  {
+    "id": 58,
+    "name": "Angel Wings"
+  },
+  {
+    "id": 59,
+    "name": "King Kai's Wings"
+  },
+  {
+    "id": 60,
+    "name": "Bansho Fan"
+  },
+  {
+    "id": 61,
+    "name": "Arale-chan's Poop Stick"
+  },
+  {
+    "id": 62,
+    "name": "Turtle Hermit Set"
+  },
+  {
+    "id": 63,
+    "name": "Tagoma's Scouter"
+  },
+  {
+    "id": 64,
+    "name": "SSGSS Goku Wig"
+  },
+  {
+    "id": 65,
+    "name": "Four-Star Dragon Ball Hat"
+  },
+  {
+    "id": 66,
+    "name": "Chiaotzu's Hat (With Collar)"
+  },
+  {
+    "id": 67,
+    "name": "Yamcha's Baseball Hat"
+  },
+  {
+    "id": 68,
+    "name": "Piccolo's School Hat"
+  },
+  {
+    "id": 69,
+    "name": "Pikkon's Hat"
+  },
+  {
+    "id": 70,
+    "name": "Chiaotzu's Hat"
+  },
+  {
+    "id": 71,
+    "name": "Cell Head"
+  },
+  {
+    "id": 72,
+    "name": "Krillin's Police Helmet"
+  },
+  {
+    "id": 73,
+    "name": "Goku's Turban"
+  },
+  {
+    "id": 74,
+    "name": "King Yemma's Hat"
+  },
+  {
+    "id": 75,
+    "name": "Royal Army Hat"
+  },
+  {
+    "id": 76,
+    "name": "Baby Trunks's Hat"
+  },
+  {
+    "id": 77,
+    "name": "Mushroom Head"
+  },
+  {
+    "id": 78,
+    "name": "Grand Kai's Hat"
+  },
+  {
+    "id": 79,
+    "name": "Glasses (Gohan) #2"
+  },
+  {
+    "id": 80,
+    "name": "Dore's Scouter"
+  },
+  {
+    "id": 81,
+    "name": "Goku's Snow Gear"
+  },
+  {
+    "id": 82,
+    "name": "Tao Pai Pai's Cyborg Head"
+  },
+  {
+    "id": 83,
+    "name": "Suno's Hat"
+  },
+  {
+    "id": 84,
+    "name": "Tights's Hat"
+  },
+  {
+    "id": 85,
+    "name": "Yajirobe Wig"
+  },
+  {
+    "id": 86,
+    "name": "Chiaotzu Wig"
+  },
+  {
+    "id": 87,
+    "name": "Universe 6 S. Kai's Helper's Hat"
+  },
+  {
+    "id": 88,
+    "name": "Lord Zuno's Topknot Wig"
+  },
+  {
+    "id": 89,
+    "name": "SSGSS Vegeta Wig"
+  },
+  {
+    "id": 90,
+    "name": "Android 13's Hat"
+  },
+  {
+    "id": 91,
+    "name": "Jaco's State-of-the-Art Radio"
+  },
+  {
+    "id": 92,
+    "name": "Zarbon's Circlet"
+  },
+  {
+    "id": 94,
+    "name": "Energy Absorber"
+  },
+  {
+    "id": 95,
+    "name": "Energy Meter"
+  },
+  {
+    "id": 96,
+    "name": "Yajirobe's Katana"
+  },
+  {
+    "id": 97,
+    "name": "The Ox-King's Axe"
+  },
+  {
+    "id": 98,
+    "name": "Goku's Umbrella"
+  },
+  {
+    "id": 99,
+    "name": "Janemba's Sword"
+  },
+  {
+    "id": 100,
+    "name": "Dabura Cookie"
+  },
+  {
+    "id": 101,
+    "name": "Perfect Cell's Wings"
+  },
+  {
+    "id": 102,
+    "name": "Super Dragon Ball Radar"
+  },
+  {
+    "id": 103,
+    "name": "Goodie Radish"
+  },
+  {
+    "id": 104,
+    "name": "Whis's Staff"
+  },
+  {
+    "id": 105,
+    "name": "Journey to the West Hood"
+  },
+  {
+    "id": 106,
+    "name": "Bojack's Bandana"
+  },
+  {
+    "id": 107,
+    "name": "Android 15's Shades & Hat"
+  },
+  {
+    "id": 108,
+    "name": "Metal Cooler's Head"
+  },
+  {
+    "id": 109,
+    "name": "Magetta's Head"
+  },
+  {
+    "id": 110,
+    "name": "Bujin's Turban"
+  },
+  {
+    "id": 111,
+    "name": "Kogu's Bandana"
+  },
+  {
+    "id": 112,
+    "name": "Future Mai's Hat"
+  },
+  {
+    "id": 113,
+    "name": "Angol's Helmet"
+  },
+  {
+    "id": 114,
+    "name": "Frieza's Head (Final Form)"
+  },
+  {
+    "id": 115,
+    "name": "Mecha Frieza's Head"
+  },
+  {
+    "id": 116,
+    "name": "Great Priest's Ring"
+  },
+  {
+    "id": 117,
+    "name": "Gas Mask"
+  },
+  {
+    "id": 118,
+    "name": "Future Trunks's Sword"
+  },
+  {
+    "id": 119,
+    "name": "Great Ape Hat & Tail"
+  },
+  {
+    "id": 120,
+    "name": "Golden Great Ape Hat & Tail"
+  },
+  {
+    "id": 121,
+    "name": "Saiyan Tail"
+  },
+  {
+    "id": 122,
+    "name": "Resistance Helmet"
+  },
+  {
+    "id": 123,
+    "name": "Turtle Hermit's Golden Shell"
+  },
+  {
+    "id": 124,
+    "name": "Golden Scouter"
+  },
+  {
+    "id": 125,
+    "name": "Majin Mark"
+  },
+  {
+    "id": 126,
+    "name": "SS4 Wig & Tail (Goku)"
+  },
+  {
+    "id": 127,
+    "name": "Toppo's Moustache"
+  },
+  {
+    "id": 128,
+    "name": "Ribrianne's Hood"
+  },
+  {
+    "id": 129,
+    "name": "Super Saiyan Ros\u00e9 Wig"
+  },
+  {
+    "id": 130,
+    "name": "Fused Zamasu Wig"
+  },
+  {
+    "id": 131,
+    "name": "Android 21 Wig & Glasses"
+  },
+  {
+    "id": 132,
+    "name": "Android 21 Wig & Glasses"
+  },
+  {
+    "id": 133,
+    "name": "Tapion Wig"
+  },
+  {
+    "id": 134,
+    "name": "Janemba Head"
+  },
+  {
+    "id": 135,
+    "name": "Hercule Wig 2"
+  },
+  {
+    "id": 136,
+    "name": "Tiencha Wig"
+  },
+  {
+    "id": 137,
+    "name": "Kefla Wig (Super Saiyan)"
+  },
+  {
+    "id": 138,
+    "name": "Goku Wig (Ultra Instinct)"
+  },
+  {
+    "id": 139,
+    "name": "Santa Hat"
+  },
+  {
+    "id": 140,
+    "name": "Santa Hat (with Beard)"
+  },
+  {
+    "id": 141,
+    "name": "Broly Wig (Legendary Super Saiyan)"
+  },
+  {
+    "id": 142,
+    "name": "Blockbuster Glasses"
+  },
+  {
+    "id": 143,
+    "name": "Kakunsa's Wig and Mask"
+  },
+  {
+    "id": 144,
+    "name": "Kakunsa's Tail"
+  },
+  {
+    "id": 145,
+    "name": "Kakunsa's Set"
+  },
+  {
+    "id": 146,
+    "name": "Rozie's Hood and Goggles"
+  },
+  {
+    "id": 147,
+    "name": "Sumo Wrestler Wig"
+  },
+  {
+    "id": 148,
+    "name": "Universe 7 Baseball Cap"
+  },
+  {
+    "id": 149,
+    "name": "Cheelai Wig (w/ Scouter)"
+  },
+  {
+    "id": 150,
+    "name": "Cheelai Wig"
+  },
+  {
+    "id": 151,
+    "name": "Broly Wig (Rage)"
+  },
+  {
+    "id": 152,
+    "name": "Gine (DB Super) Set"
+  },
+  {
+    "id": 153,
+    "name": "Fu Set"
+  },
+  {
+    "id": 154,
+    "name": "Bulma (DB Super) Set"
+  },
+  {
+    "id": 155,
+    "name": "Bergamo Wig"
+  },
+  {
+    "id": 156,
+    "name": "Kale Wig"
+  },
+  {
+    "id": 157,
+    "name": "Caulifla Wig"
+  },
+  {
+    "id": 158,
+    "name": "Bulma (Kid) Wig"
+  },
+  {
+    "id": 159,
+    "name": "Accessory (DLC) #159"
+  },
+  {
+    "id": 160,
+    "name": "Accessory (DLC) #160"
+  },
+  {
+    "id": 161,
+    "name": "Accessory (DLC) #161"
+  },
+  {
+    "id": 162,
+    "name": "Accessory (DLC) #162"
+  },
+  {
+    "id": 163,
+    "name": "Accessory (DLC) #163"
+  },
+  {
+    "id": 164,
+    "name": "Accessory (DLC) #164"
+  },
+  {
+    "id": 165,
+    "name": "Android 17 (DB Super) Wig"
+  },
+  {
+    "id": 166,
+    "name": "King Vegeta (DB Super) Wig"
+  },
+  {
+    "id": 167,
+    "name": "Oolong Set"
+  },
+  {
+    "id": 168,
+    "name": "Cell's Exoskeleton"
+  },
+  {
+    "id": 169,
+    "name": "Pan's School Cap"
+  },
+  {
+    "id": 170,
+    "name": "Gamma 1's Helmet"
+  },
+  {
+    "id": 171,
+    "name": "Gamma 2's Helmet"
+  },
+  {
+    "id": 172,
+    "name": "Trunks Wig & Giru"
+  },
+  {
+    "id": 173,
+    "name": "Frieza (1st Form) Accessory"
+  },
+  {
+    "id": 174,
+    "name": "Mini Saiyan Pod"
+  },
+  {
+    "id": 175,
+    "name": "Rocket Launcher"
+  },
+  {
+    "id": 176,
+    "name": "Red Ribbon Army Helmet"
+  },
+  {
+    "id": 177,
+    "name": "Cell Max Set"
+  },
+  {
+    "id": 178,
+    "name": "Dr. Hedo Hood"
+  },
+  {
+    "id": 179,
+    "name": "Gohan (Beast) Wig"
+  },
+  {
+    "id": 180,
+    "name": "Chiaotzu Accessory"
+  },
+  {
+    "id": 181,
+    "name": "Saibaman Accessory"
+  },
+  {
+    "id": 182,
+    "name": "Majin Buu's House & Bee Accessory"
+  },
+  {
+    "id": 183,
+    "name": "Monarch Set"
+  },
+  {
+    "id": 184,
+    "name": "10-Million Celebration Balloon"
+  },
+  {
+    "id": 185,
+    "name": "Bubbles Plushie"
+  },
+  {
+    "id": 186,
+    "name": "Time Machine Accessory"
+  },
+  {
+    "id": 187,
+    "name": "Vending Machine Accessory"
+  },
+  {
+    "id": 188,
+    "name": "Videl (DB Super) Wig"
+  },
+  {
+    "id": 189,
+    "name": "Beelzebub Wig & Tail"
+  },
+  {
+    "id": 190,
+    "name": "Belmod Wig (with Nose)"
+  },
+  {
+    "id": 191,
+    "name": "Korin Wig with Ears & Tail"
+  },
+  {
+    "id": 192,
+    "name": "Power Key Accessory"
+  },
+  {
+    "id": 193,
+    "name": "Capsule Case Accessory"
+  },
+  {
+    "id": 194,
+    "name": "Spaceship & Tama Accessory"
+  },
+  {
+    "id": 195,
+    "name": "King Kai's House & Gregory Accessory"
+  },
+  {
+    "id": 196,
+    "name": "Accessory (DLC) #196"
+  },
+  {
+    "id": 197,
+    "name": "Glorio Wig"
+  },
+  {
+    "id": 198,
+    "name": "Panzy Wig"
+  },
+  {
+    "id": 199,
+    "name": "SS4 Goku (DAIMA) Wig & Tail"
+  },
+  {
+    "id": 200,
+    "name": "SS3 Vegeta (DAIMA) Wig"
+  },
+  {
+    "id": 201,
+    "name": "Golden Frieza Head"
+  },
+  {
+    "id": 202,
+    "name": "Broly Wig (Black Hair, Normal)"
+  },
+  {
+    "id": 203,
+    "name": "Dragon Ball Balloon"
+  },
+  {
+    "id": 204,
+    "name": "XENOVERSE 10th Anniversary Celebratory Cake Hat"
+  },
+  {
+    "id": 205,
+    "name": "Fu (Ultra Supervillain) Set"
+  },
+  {
+    "id": 206,
+    "name": "Goku (Ultra Supervillain Quelled) Wig"
+  },
+  {
+    "id": 207,
+    "name": "Fu Set 2"
+  },
+  {
+    "id": 208,
+    "name": "Angel Set"
+  },
+  {
+    "id": 209,
+    "name": "Accessory (DLC) #209"
+  },
+  {
+    "id": 210,
+    "name": "Accessory (DLC) #210"
+  },
+  {
+    "id": 211,
+    "name": "Accessory (DLC) #211"
+  },
+  {
+    "id": 213,
+    "name": "Accessory (DLC) #213"
+  },
+  {
+    "id": 214,
+    "name": "Accessory (DLC) #214"
+  },
+  {
+    "id": 215,
+    "name": "Accessory (DLC) #215"
+  }
+]
